@@ -6,14 +6,19 @@ This repository provides the complete coded master table used in the systematic 
 - `data/master_table_S1A_publication_dataset.csv` — Publication & dataset descriptors.
 - `data/master_table_S1B_preprocess_model_eval.csv` — Preprocessing, model, and evaluation descriptors.
 - `data/Supplementary_Table_S1_MasterTable.xlsx` — Same content as CSVs, in two sheets.
+- `data/paper_id_crosswalk.csv` — Crosswalk between consecutive included-study numbering (1–71) and stable manuscript Paper IDs.
 
 ## Conventions
-- **Paper ID** is the join key across S1A and S1B and the identifier referenced in manuscript tables/figures.
+- **Corpus B contains 71 PRISMA-included studies.**
+- **Paper ID** is the stable join key across S1A and S1B and the identifier referenced in manuscript tables/figures.
+- Paper IDs are **not intended to imply consecutive inclusion order**. They were inherited from a broader review registry used during screening and coding, so the final included set contains gaps in the Paper ID sequence.
+- **Included Study No.** is a consecutive index from 1 to 71 added for transparent included-study accounting.
 - **NR** means *Not Reported* in the original paper; values were not inferred.
 - Some quantities (e.g., training size) are reported in different units across studies; see manuscript for guidance.
 
 ## Column definitions
-- **Paper ID**: Unique integer identifier used throughout the manuscript to reference each included study.
+- **Included Study No.**: Consecutive index for the 71 PRISMA-included studies in Corpus B.
+- **Paper ID**: Stable registry identifier used throughout the manuscript and repository to reference included studies.
 - **Year**: Publication year.
 - **Title**: Paper title (as indexed).
 - **Category**: High-level thematic category used for organizing the corpus.
