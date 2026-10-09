@@ -5,6 +5,14 @@ type: dataset
 version: "2.0.0"
 date-released: "2026-10-10"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.23270697"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23270697"
+    description: "Version 2.0.0"
+  - type: doi
+    value: "10.5281/zenodo.23270696"
+    description: "All versions (concept DOI)"
 repository-code: "https://github.com/shokor103072/microseismic-ml-dl-systematic-review-data"
 authors:
   - family-names: Rahaman

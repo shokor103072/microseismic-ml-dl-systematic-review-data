@@ -1,5 +1,7 @@
 # Data and code: machine learning for microseismic monitoring with geophones and DAS
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23270696.svg)](https://doi.org/10.5281/zenodo.23270696)
+
 Data, code and coding records for the review
 
 > Rahaman, M. S. A., J. Jaafar, M. S. Shahabudin, R. A. Khan, and I. V. Paputungan. *Will a Machine-Learning Microseismic Detector Work at the Next Site? Evaluation and Transfer Evidence for Geophone and DAS Monitoring.* Submitted to *Seismological Research Letters* (2026).
@@ -37,7 +39,14 @@ The outputs are identical to the files used for the paper (`data/sample_audit/sa
 
 ## How to cite
 
-Cite the paper and this repository. A versioned DOI is provided through Zenodo for each release (see the badge or the release page once available).
+Please cite the paper and the version of this repository you used. Each release is archived on Zenodo with its own DOI:
+
+- **Version 2.0.0** (the version used in the paper): [10.5281/zenodo.23270697](https://doi.org/10.5281/zenodo.23270697)
+- **All versions** (always resolves to the latest): [10.5281/zenodo.23270696](https://doi.org/10.5281/zenodo.23270696)
+
+> Rahaman, M. S. A., J. Jaafar, M. S. Shahabudin, R. A. Khan, and I. V. Paputungan (2026). Data and code for: Will a machine-learning microseismic detector work at the next site? Evaluation and transfer evidence for geophone and DAS monitoring, Zenodo, version 2.0.0, doi: 10.5281/zenodo.23270697.
+
+GitHub's "Cite this repository" button (from `CITATION.cff`) gives the same reference in other formats.
 
 ## License
 
