@@ -1,0 +1,72 @@
+Included Study No.,Paper ID,Year,Title
+1,1,2016,Seismic features and automatic discrimination of deep and shallow induced-microearthquakes using neural network and logistic regression
+2,2,2017,Using Supervised Machine Learning to Distinguish Microseismic from Noise Events
+3,3,2018,Fast waveform detection for microseismic imaging using unsupervised machine learning
+4,5,2018,Surrogate regression modelling for fast seismogram generation and detection of microseismic events in heterogeneous velocity models
+5,6,2019,Automatic Waveform Classification and Arrival Picking Based on Convolutional Neural Network
+6,7,2019,Machine Learning For DAS Microseismic Event Detection
+7,9,2019,Automated Surveillance of Subsurface Wellbore Integrity in a Heavy Oil Field using Passive Seismic Systems
+8,10,2019,Fast-AIC Method for Automatic First Arrivals Picking of Microseismic Event With Multitrace Energy Stacking Envelope Summation
+9,11,2019,Automatic high-resolution microseismic event detection via supervised machine learning
+10,12,2020,Machine learning approaches to microseismic event detection in Distributed Acoustic Sensing (DAS) fibre-optic data
+11,13,2022,Convolutional neural networkâ€based classification of microseismic events originating in a stimulated reservoir from distributed acoustic sensing data
+12,14,2017,Automatic microseismic event picking via unsupervised machine learning
+13,15,2020,Microseismic event or noise: Automatic classification with convolutional neural networks
+14,16,2020,Automatic Phase Picking From Microseismic Recordings Using Feature Extraction and Neural Network
+15,18,2020,Application of machine learning to microseismic event detection in distributed acoustic sensing data
+16,20,2020,Convolutional neural networks for microseismic waveform classification and arrival picking
+17,21,2021,Microseismic event detection in large heterogeneous velocity models using Bayesian multimodal nested sampling
+18,22,2022,Automatic First Arrival Time Identification Using Fuzzy C-Means and AIC
+19,23,2021,First Arrival Picking on Microseismic Signals Based on K-Means with a ReliefF Algorithm
+20,24,2021,Microseismic event detection and classification based on convolutional neural network
+21,25,2022,Automatic Microseismic Event Detection With Variance Fractal Dimension via Multitrace Envelope Energy Stacking
+22,26,2021,Deep Neural Networks for Detection and Location of Microseismic Events and Velocity Model Inversion from Microseismic Data Acquired by Distributed Acoustic Sensing Array
+23,28,2021,Feature Extraction and Analysis of Microseismic Signal Based on Convolutional Neural Network
+24,29,2022,Traveltime-based microseismic event location using artificial neural network
+25,31,2022,Micro-Seismic Event Detection using statistical feature extraction and machine learning techniques
+26,32,2022,3D Microseismic Monitoring Using Machine Learning
+27,33,2022,Automatic microseismic event detection in downhole DAS data through convolutional neural networks: A comparison of events during and post-stimulation of the well
+28,34,2022,A study of microseismic first arrival pickup based on image semantic segmentation
+29,35,2021,Distributed Acoustic Sensing (DAS) for Natural Microseismicity Studies: A Case Study from Antarctica
+30,36,2022,Detection and characterization of microseismic events from fiberâ€‘optic DAS data using deep learning
+31,37,2022,Microseismic analysis over a single horizontal distributed acoustic sensing fiber using guided waves
+32,38,2022,Localizing microseismic events on field data using a U‑Net‑based convolutional neural network trained on synthetic data
+33,39,2022,Localizing weak microseismic events using transfer learning with a deep neural network
+34,40,2022 (Available online: 14 Oct 2021),Joint event location and velocity model update in real-time for downhole microseismic monitoring: A deep learning approach
+35,41,2022,Microseismic Monitoring and Analysis Using Cutting-Edge Technology: A Key Enabler for Reservoir Characterization
+36,42,2022,Data‑Driven Microseismic Event Localization: An Application to the Oklahoma Arkoma Basin Hydraulic Fracturing Data
+37,44,"2021 (preprint dated December 8, 2021)",Toward Real-time Microseismic Event Detection using the YOLOv3 Algorithm
+38,45,2023,A simultaneous denoising and event-picking approach using supervised machine learning
+39,46,2023,Machine learning in microseismic monitoring
+40,47,2023,Microseism Detection Method in Coal Mine Based on Spatiotemporal Characteristics and Support Vector Regression Algorithm
+41,48,2023,Machine learning-assisted processing workflow for multi-fiber DAS microseismic data
+42,49,2023,A Survey of Machine Learning Applications in Microseismic Signal Recognition and Classification
+43,50,2024,RESEARCH ON MICROSEISMIC EVENT LOCALIZATION BASED ON CONVOLUTIONAL NEURAL NETWORK
+44,51,2023,Microseismic event detection based on multiscale detection convolutional neural network
+45,52,2024,A Deep Learning Approach for Microseismic Detection with Downhole DAS
+46,53,2024,Graph Neural Networks for Microseismic Event Detection: Focusing on Distributed Acoustic Sensing Data
+47,54,2024,Spiking Neural Network for Microseismic Events Detection Using Distributed Acoustic Sensing Data
+48,55,2024,Automatic arrival‑time picking of P‑ and S‑waves of micro‑seismic events based on relative standard generative adversarial network and GHRA
+49,56,2024,Transfer Learning-Based Seismic Phase Detection Algorithm for Distributed Acoustic Sensing Microseismic Data
+50,57,2023,A comparison of deep and shallow models for the detection of induced seismicity
+51,58,"2024 (GHGT‑17, Oct 20–24, 2024)","Optimized Microseismic Event Detection and Source Analysis at the Quest CCS Site, Alberta, Canada"
+52,59,2024,How induced earthquakes respond to pre‑existing fractures and hydraulic fracturing operations? A case study in South China
+53,60,2024,MA_W‑Net-Based Dual-Output Method for Microseismic Localization in Strong Noise Environments
+54,62,"2024 (preprint dated Feb 9, 2024)",Supervised microseismic event detection using Siamese Networks for labelling of noisy recordings
+55,63,2024,A semblance-based microseismic event detector for DAS data
+56,65,2024,An Active Learning Framework for Microseismic Event Detection
+57,66,2024,An Autoencoder-Based Deep Learning Model for Enhancing Noise Characterization and Microseismic Event Detection in Underground Longwall Coal Mines Using Distributed Acoustic Sensing Monitoring
+58,67,2024,Ensemble Learning Improves the Efficiency of Microseismic Signal Classification in Landslide Seismic Monitoring
+59,68,2024,Deep learning‐based 3D microseismic event direct location using simultaneous surface and borehole data
+60,69,2024,DASEventNet: AI‑based microseismic detection on distributed acoustic sensing data from the Utah FORGE well 16A (78)‑32 hydraulic stimulation
+61,71,2025,Enhancing microseismic event detection with TransUNet: A deep learning approach for simultaneous pickings of P‑wave and S‑wave first arrivals
+62,72,2025,ZSN2N‑DAS: Zero‑Shot Noise2Noise Denoising for Distributed Acoustic Sensing Data
+63,73,2025,An Intelligent First‑Arrival Picking Method of Microseismic Signals Based on the Small Sample Expansion
+64,74,2025,A Semi‑Supervised Approach to Characterise Microseismic Landslide Events from Big Noisy Data
+65,75,2025,Multi-Branch Hybrid Convolution–Transformer for Enhanced Microseismic Signal Classification
+66,77,2025,DeFault: DEep‑Learning‑Based FAULT Delineation Using the IBDP Passive Seismic Data at the Decatur CO₂ Storage Site
+67,78,2025,CAE Neural Network and Reverse‑Time Localization Imaging Method for Picking of Downhole Fracturing Microseismic Signal
+68,79,2025,"Unsupervised Clustering of Microseismic Events and Focal Mechanism Analysis at the CO2 Injection Site in Decatur, Illinois"
+69,80,2025,Downhole Microseismic Detection Using Fiber-Optic Distributed Acoustic Sensing Based on Segmentation Model and Connected Domain Algorithm
+70,81,2024,Joint Microseismic Event Detection and Location with a Detection Transformer
+71,82,2025,PhysLoc‑DeepONet: Physics‑Constrained DeepONet for Passive Seismic Source Localization With Limited Differential Travel‑Time Data

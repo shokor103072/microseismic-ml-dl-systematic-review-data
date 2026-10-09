@@ -1,0 +1,2150 @@
+{
+ "seed": 20260927,
+ "n": 80,
+ "population": 327,
+ "strata": [
+  {
+   "stratum": "mining | 2015-2022",
+   "population": 36,
+   "sampled": 9
+  },
+  {
+   "stratum": "mining | 2023-2024",
+   "population": 30,
+   "sampled": 7
+  },
+  {
+   "stratum": "mining | 2025-2026",
+   "population": 38,
+   "sampled": 9
+  },
+  {
+   "stratum": "not specified | 2015-2022",
+   "population": 53,
+   "sampled": 13
+  },
+  {
+   "stratum": "not specified | 2023-2024",
+   "population": 22,
+   "sampled": 5
+  },
+  {
+   "stratum": "not specified | 2025-2026",
+   "population": 30,
+   "sampled": 7
+  },
+  {
+   "stratum": "reservoir | 2015-2022",
+   "population": 24,
+   "sampled": 6
+  },
+  {
+   "stratum": "reservoir | 2023-2024",
+   "population": 21,
+   "sampled": 5
+  },
+  {
+   "stratum": "reservoir | 2025-2026",
+   "population": 28,
+   "sampled": 7
+  },
+  {
+   "stratum": "tunnel/slope | 2015-2022",
+   "population": 10,
+   "sampled": 3
+  },
+  {
+   "stratum": "tunnel/slope | 2023-2024",
+   "population": 14,
+   "sampled": 4
+  },
+  {
+   "stratum": "tunnel/slope | 2025-2026",
+   "population": 21,
+   "sampled": 5
+  }
+ ],
+ "sample": [
+  {
+   "id": "m1113",
+   "stratum": "mining | 2015-2022",
+   "year": 2020,
+   "title": "Research on automatic picking of microseismic first arrival",
+   "doi": "10.13272/j.issn.1671-251x.17564",
+   "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": true,
+   "oa_url": "https://doaj.org/article/881a97e414494defad623cd7052acc55",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4287559760",
+   "candidates": [
+    {
+     "url": "https://doaj.org/article/881a97e414494defad623cd7052acc55",
+     "kind": "landing",
+     "src": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m244",
+   "stratum": "mining | 2015-2022",
+   "year": 2022,
+   "title": "An automatic P-wave onset time picking method for mining-induced microseismic data based on long short-term memory deep neural network",
+   "doi": "10.1080/19475705.2022.2057241",
+   "venue": "Geomatics Natural Hazards and Risk",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": true,
+   "oa_url": "https://doi.org/10.1080/19475705.2022.2057241",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4220858362",
+   "candidates": [
+    {
+     "url": "https://doi.org/10.1080/19475705.2022.2057241",
+     "kind": "landing",
+     "src": "Geomatics Natural Hazards and Risk"
+    },
+    {
+     "url": "https://doi.org/10.1080/19475705.2022.2057241",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m173",
+   "stratum": "mining | 2015-2022",
+   "year": 2021,
+   "title": "Accurate identification of microseismic waveforms based on an improved neural network model",
+   "doi": "10.1016/j.jappgeo.2021.104343",
+   "venue": "Journal of Applied Geophysics",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W3158298132",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m975",
+   "stratum": "mining | 2015-2022",
+   "year": 2020,
+   "title": "Identification of Microseismic Signals Based on Multiscale Singular Spectrum Entropy",
+   "doi": "10.1155/2020/6717128",
+   "venue": "Shock and Vibration",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": true,
+   "oa_url": "https://downloads.hindawi.com/journals/sv/2020/6717128.pdf",
+   "pdf_url": "https://downloads.hindawi.com/journals/sv/2020/6717128.pdf",
+   "openalex": "https://openalex.org/W3029072104",
+   "candidates": [
+    {
+     "url": "https://downloads.hindawi.com/journals/sv/2020/6717128.pdf",
+     "kind": "pdf",
+     "src": "Shock and Vibration"
+    },
+    {
+     "url": "https://doi.org/10.1155/2020/6717128",
+     "kind": "landing",
+     "src": "Shock and Vibration"
+    },
+    {
+     "url": "https://doaj.org/article/a29e9feac65843beb011f8fe06a39fbe",
+     "kind": "landing",
+     "src": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    {
+     "url": "https://doi.org/10.1155/2020/6717128",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m122",
+   "stratum": "mining | 2015-2022",
+   "year": 2020,
+   "title": "Discrimination of mining microseismic events and blasts using convolutional neural networks and original waveform",
+   "doi": "10.1007/s11771-020-4530-8",
+   "venue": "Journal of Central South University",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W3106374739",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m250",
+   "stratum": "mining | 2015-2022",
+   "year": 2022,
+   "title": "Automatic Events Recognition in Low SNR Microseismic Signals of Coal Mine Based on Wavelet Scattering Transform and SVM",
+   "doi": "10.3390/en15072326",
+   "venue": "Energies",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": true,
+   "oa_url": "https://www.mdpi.com/1996-1073/15/7/2326/pdf?version=1648027162",
+   "pdf_url": "https://www.mdpi.com/1996-1073/15/7/2326/pdf?version=1648027162",
+   "openalex": "https://openalex.org/W4220797655",
+   "candidates": [
+    {
+     "url": "https://www.mdpi.com/1996-1073/15/7/2326/pdf?version=1648027162",
+     "kind": "pdf",
+     "src": "Energies"
+    },
+    {
+     "url": "https://doi.org/10.3390/en15072326",
+     "kind": "landing",
+     "src": "Energies"
+    },
+    {
+     "url": "https://doaj.org/article/aa21692be5a9474487f339c69ac60283",
+     "kind": "landing",
+     "src": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    {
+     "url": "https://www.mdpi.com/1996-1073/15/7/2326/pdf?version=1648027162",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m145",
+   "stratum": "mining | 2015-2022",
+   "year": 2020,
+   "title": "Microseismic records classification using capsule network with limited training samples in underground mining",
+   "doi": "10.1038/s41598-020-70916-z",
+   "venue": "Scientific Reports",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": true,
+   "oa_url": "https://www.nature.com/articles/s41598-020-70916-z.pdf",
+   "pdf_url": "https://www.nature.com/articles/s41598-020-70916-z.pdf",
+   "openalex": "https://openalex.org/W3079222797",
+   "candidates": [
+    {
+     "url": "https://www.nature.com/articles/s41598-020-70916-z.pdf",
+     "kind": "pdf",
+     "src": "Scientific Reports"
+    },
+    {
+     "url": "https://doi.org/10.1038/s41598-020-70916-z",
+     "kind": "landing",
+     "src": "Scientific Reports"
+    },
+    {
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7434910",
+     "kind": "landing",
+     "src": "PubMed Central"
+    },
+    {
+     "url": "https://www.nature.com/articles/s41598-020-70916-z.pdf",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m1197",
+   "stratum": "mining | 2015-2022",
+   "year": 2021,
+   "title": "A neural network approach for classifying events and blasts in real-time mining seismicity",
+   "doi": "10.3997/1365-2397.fb2021028",
+   "venue": "First Break",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W3142870282",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m131",
+   "stratum": "mining | 2015-2022",
+   "year": 2020,
+   "title": "Identifying microseismic events in a mining scenario using a convolutional neural network",
+   "doi": "10.1016/j.cageo.2020.104418",
+   "venue": "Computers & Geosciences",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W3002866353",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m849",
+   "stratum": "mining | 2023-2024",
+   "year": 2023,
+   "title": "Automatic microseismic signal classification for mining safety monitoring using the WaveNet classifier",
+   "doi": "10.1111/1365-2478.13398",
+   "venue": "Geophysical Prospecting",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4382679274",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m386",
+   "stratum": "mining | 2023-2024",
+   "year": 2023,
+   "title": "The CGAS Deep Learning Algorithm for P-Wave Arrival Time Picking of Mining Microseismic Events",
+   "doi": "10.1109/access.2023.3317084",
+   "venue": "IEEE Access",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": true,
+   "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10255552.pdf",
+   "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10255552.pdf",
+   "openalex": "https://openalex.org/W4386869593",
+   "candidates": [
+    {
+     "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10255552.pdf",
+     "kind": "pdf",
+     "src": "IEEE Access"
+    },
+    {
+     "url": "https://doi.org/10.1109/access.2023.3317084",
+     "kind": "landing",
+     "src": "IEEE Access"
+    },
+    {
+     "url": "https://doaj.org/article/5c21b74c6ef348e5925d41aef111e167",
+     "kind": "landing",
+     "src": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    {
+     "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10255552.pdf",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m354",
+   "stratum": "mining | 2023-2024",
+   "year": 2023,
+   "title": "Machine learning-based microseismic catalog and passive seismic tomography evaluating the effect of grouting in Zhangji coal mine, China",
+   "doi": "10.1007/s11770-023-1056-5",
+   "venue": "Applied Geophysics",
+   "das": false,
+   "tasks2": [
+    "CD"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4391665560",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m1431",
+   "stratum": "mining | 2023-2024",
+   "year": 2024,
+   "title": "Machine Learning (ML) Model for Blasting and Seismic Event Classification on Chilean Copper Mines",
+   "doi": "10.56952/arma-2024-0976",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4401481639",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m338",
+   "stratum": "mining | 2023-2024",
+   "year": 2023,
+   "title": "Enhancing Microseismic Signal Classification in Metal Mines Using Transformer-Based Deep Learning",
+   "doi": "10.3390/su152014959",
+   "venue": "Sustainability",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": true,
+   "oa_url": "https://www.mdpi.com/2071-1050/15/20/14959/pdf?version=1697528067",
+   "pdf_url": "https://www.mdpi.com/2071-1050/15/20/14959/pdf?version=1697528067",
+   "openalex": "https://openalex.org/W4387705625",
+   "candidates": [
+    {
+     "url": "https://www.mdpi.com/2071-1050/15/20/14959/pdf?version=1697528067",
+     "kind": "pdf",
+     "src": "Sustainability"
+    },
+    {
+     "url": "https://doi.org/10.3390/su152014959",
+     "kind": "landing",
+     "src": "Sustainability"
+    },
+    {
+     "url": "https://www.mdpi.com/2071-1050/15/20/14959/pdf?version=1697528067",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m370",
+   "stratum": "mining | 2023-2024",
+   "year": 2023,
+   "title": "MSNet: A Seismic Phase Picking Network Applicable to Microseismic Monitoring",
+   "doi": "10.1109/lgrs.2023.3314029",
+   "venue": "IEEE Geoscience and Remote Sensing Letters",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4386590155",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m431",
+   "stratum": "mining | 2023-2024",
+   "year": 2024,
+   "title": "Detection and Monitoring of Mining-Induced Seismicity Based on Machine Learning and Template Matching: A Case Study from Dongchuan Copper Mine, China",
+   "doi": "10.3390/s24227312",
+   "venue": "Sensors",
+   "das": false,
+   "tasks2": [
+    "CD",
+    "PICK",
+    "LOC"
+   ],
+   "oa": true,
+   "oa_url": "https://doi.org/10.3390/s24227312",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4404527550",
+   "candidates": [
+    {
+     "url": "https://doi.org/10.3390/s24227312",
+     "kind": "landing",
+     "src": "Sensors"
+    },
+    {
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11597998",
+     "kind": "landing",
+     "src": "PubMed Central"
+    },
+    {
+     "url": "https://doaj.org/article/716ebf7af92b4f84b762684a1599564b",
+     "kind": "landing",
+     "src": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    {
+     "url": "https://doi.org/10.3390/s24227312",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": {
+    "file": "m431.html",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11597998",
+    "src": "PubMed Central",
+    "bytes": 190119
+   }
+  },
+  {
+   "id": "m1029",
+   "stratum": "mining | 2025-2026",
+   "year": 2025,
+   "title": "Identifying different classes of geoacoustic events using machine learning",
+   "doi": "10.1016/j.ijrmms.2025.106144",
+   "venue": "International Journal of Rock Mechanics and Mining Sciences",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4410066910",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m578",
+   "stratum": "mining | 2025-2026",
+   "year": 2025,
+   "title": "Low-SNR Microseismic Source Localization via Multiscale Convolutional Network With Coordinate Attention",
+   "doi": "10.1109/tim.2025.3645922",
+   "venue": "IEEE Transactions on Instrumentation and Measurement",
+   "das": false,
+   "tasks2": [
+    "LOC"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4417470666",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m616",
+   "stratum": "mining | 2025-2026",
+   "year": 2025,
+   "title": "Research on computational propagation and identification of mine microseismic signals based on deep learning",
+   "doi": "10.1371/journal.pone.0334641",
+   "venue": "PLoS ONE",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": true,
+   "oa_url": "https://doi.org/10.1371/journal.pone.0334641",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4415440657",
+   "candidates": [
+    {
+     "url": "https://doi.org/10.1371/journal.pone.0334641",
+     "kind": "landing",
+     "src": "PLoS ONE"
+    },
+    {
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12543183",
+     "kind": "landing",
+     "src": "Europe PMC (PubMed Central)"
+    },
+    {
+     "url": "https://doaj.org/article/57355a28123c4f09b02d3c1567ed6d9c",
+     "kind": "landing",
+     "src": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    {
+     "url": "https://doi.org/10.1371/journal.pone.0334641",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": {
+    "file": "m616.html",
+    "url": "https://doi.org/10.1371/journal.pone.0334641",
+    "src": "PLoS ONE",
+    "bytes": 261355
+   }
+  },
+  {
+   "id": "m786",
+   "stratum": "mining | 2025-2026",
+   "year": 2026,
+   "title": "Two-Stage Microseismic P-Wave Arrival Picking via STA/LTA-Guided Lightweight U-Net",
+   "doi": "10.3390/s26051693",
+   "venue": "Sensors",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": true,
+   "oa_url": "https://www.mdpi.com/1424-8220/26/5/1693/pdf?version=1772876079",
+   "pdf_url": "https://www.mdpi.com/1424-8220/26/5/1693/pdf?version=1772876079",
+   "openalex": "https://openalex.org/W7134128386",
+   "candidates": [
+    {
+     "url": "https://www.mdpi.com/1424-8220/26/5/1693/pdf?version=1772876079",
+     "kind": "pdf",
+     "src": "Sensors"
+    },
+    {
+     "url": "https://doi.org/10.3390/s26051693",
+     "kind": "landing",
+     "src": "Sensors"
+    },
+    {
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12987285/pdf/sensors-26-01693.pdf",
+     "kind": "pdf",
+     "src": "PubMed Central"
+    },
+    {
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12987285/",
+     "kind": "landing",
+     "src": "PubMed Central"
+    },
+    {
+     "url": "https://doaj.org/article/25818056504d40339d48fdec87dc0bce",
+     "kind": "landing",
+     "src": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    {
+     "url": "https://www.mdpi.com/1424-8220/26/5/1693/pdf?version=1772876079",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": {
+    "file": "m786.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12987285/",
+    "src": "PubMed Central",
+    "bytes": 201571
+   }
+  },
+  {
+   "id": "m584",
+   "stratum": "mining | 2025-2026",
+   "year": 2025,
+   "title": "Micro-seismic resolution in mining engineering by combining denoising processing and improved CNN algorithm",
+   "doi": "10.1177/25726838251342677",
+   "venue": "Applied Earth Science Transactions of the Institutions of Mining and Metallurgy",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4410958253",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m651",
+   "stratum": "mining | 2025-2026",
+   "year": 2026,
+   "title": "A novel transfer learning-enhanced BiLSTM-DCNN architecture for mine microseismic signal identification with small data set",
+   "doi": "10.1007/s40948-026-01168-w",
+   "venue": "Geomechanics and Geophysics for Geo-Energy and Geo-Resources",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": true,
+   "oa_url": "https://doi.org/10.1007/s40948-026-01168-w",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7161792350",
+   "candidates": [
+    {
+     "url": "https://doi.org/10.1007/s40948-026-01168-w",
+     "kind": "landing",
+     "src": "Geomechanics and Geophysics for Geo-Energy and Geo-Resources"
+    },
+    {
+     "url": "https://doi.org/10.1007/s40948-026-01168-w",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m759",
+   "stratum": "mining | 2025-2026",
+   "year": 2026,
+   "title": "Research on recognition of rockburst microseismic signal based on deep convolution neural network attention mechanism algorithm",
+   "doi": "10.1007/s11600-026-01897-2",
+   "venue": "Acta Geophysica",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7162025486",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m712",
+   "stratum": "mining | 2025-2026",
+   "year": 2026,
+   "title": "Laboratory-AE-driven wavelet-enhanced CNN for in-situ microseismic recognition",
+   "doi": "10.1016/j.ijrmms.2026.106647",
+   "venue": "International Journal of Rock Mechanics and Mining Sciences",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7171549696",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m692",
+   "stratum": "mining | 2025-2026",
+   "year": 2026,
+   "title": "Fast Automatic Segmentation of Microseismic and Blasting Events without Labeled Data Using Sparse Graph Spectral Clustering",
+   "doi": "10.1061/ajrua6.rueng-1732",
+   "venue": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part A Civil Engineering",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7155104015",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m262",
+   "stratum": "not specified | 2015-2022",
+   "year": 2022,
+   "title": "Deep compressed seismic learning for fast location and moment tensor inferences with natural and induced seismicity",
+   "doi": "10.1038/s41598-022-19421-z",
+   "venue": "Scientific Reports",
+   "das": false,
+   "tasks2": [
+    "LOC"
+   ],
+   "oa": true,
+   "oa_url": "https://www.nature.com/articles/s41598-022-19421-z.pdf",
+   "pdf_url": "https://www.nature.com/articles/s41598-022-19421-z.pdf",
+   "openalex": "https://openalex.org/W4294955882",
+   "candidates": [
+    {
+     "url": "https://www.nature.com/articles/s41598-022-19421-z.pdf",
+     "kind": "pdf",
+     "src": "Scientific Reports"
+    },
+    {
+     "url": "https://doi.org/10.1038/s41598-022-19421-z",
+     "kind": "landing",
+     "src": "Scientific Reports"
+    },
+    {
+     "url": "https://eartharxiv.org/repository/object/3339/download/6676/",
+     "kind": "pdf",
+     "src": "EarthArXiv (California Digital Library)"
+    },
+    {
+     "url": "https://doi.org/10.1038/s41598-022-19421-z",
+     "kind": "landing",
+     "src": "EarthArXiv (California Digital Library)"
+    },
+    {
+     "url": "https://www.osti.gov/servlets/purl/1904850",
+     "kind": "pdf",
+     "src": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)"
+    },
+    {
+     "url": "https://www.osti.gov/biblio/1904850",
+     "kind": "landing",
+     "src": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)"
+    },
+    {
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9458717",
+     "kind": "landing",
+     "src": "PubMed Central"
+    },
+    {
+     "url": "https://doaj.org/article/a8e6522b46624c15b98bc5f4490d3ba4",
+     "kind": "landing",
+     "src": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    {
+     "url": "https://www.nature.com/articles/s41598-022-19421-z.pdf",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": {
+    "file": "m262.pdf",
+    "url": "https://eartharxiv.org/repository/object/3339/download/6676/",
+    "src": "EarthArXiv (California Digital Library)",
+    "bytes": 7760740
+   }
+  },
+  {
+   "id": "m80",
+   "stratum": "not specified | 2015-2022",
+   "year": 2019,
+   "title": "Automatic Microseismic Event Detection Using Deep Learning: a Classification is Detection Method",
+   "doi": "10.3997/2214-4609.201900761",
+   "venue": "81st EAGE Conference and Exhibition 2019",
+   "das": false,
+   "tasks2": [
+    "CD"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W2947161164",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m966",
+   "stratum": "not specified | 2015-2022",
+   "year": 2019,
+   "title": "A fuzzy c-means assisted AIC workflow for arrival picking on downhole microseismic data",
+   "doi": "10.1190/segam2019-3215089.1",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W2967457040",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m898",
+   "stratum": "not specified | 2015-2022",
+   "year": 2022,
+   "title": "AI-powered automatic detection of dynamic triggering of earthquake based on microseismic monitoring",
+   "doi": "10.1016/j.soildyn.2022.107723",
+   "venue": "Soil Dynamics and Earthquake Engineering",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4313397514",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m98",
+   "stratum": "not specified | 2015-2022",
+   "year": 2019,
+   "title": "Research on Microseismic Source Locations Based on Deep Reinforcement Learning",
+   "doi": "10.1109/access.2019.2906066",
+   "venue": "IEEE Access",
+   "das": false,
+   "tasks2": [
+    "LOC"
+   ],
+   "oa": true,
+   "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08669826.pdf",
+   "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08669826.pdf",
+   "openalex": "https://openalex.org/W2923354344",
+   "candidates": [
+    {
+     "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08669826.pdf",
+     "kind": "pdf",
+     "src": "IEEE Access"
+    },
+    {
+     "url": "https://doi.org/10.1109/access.2019.2906066",
+     "kind": "landing",
+     "src": "IEEE Access"
+    },
+    {
+     "url": "https://doaj.org/article/c94adff98a13400c990a2227110a191d",
+     "kind": "landing",
+     "src": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    {
+     "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08669826.pdf",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m1125",
+   "stratum": "not specified | 2015-2022",
+   "year": 2021,
+   "title": "An Adaptive FCM-based Approach of First Arrival Time Picking for Microseismic Data",
+   "doi": "10.1109/igarss47720.2021.9553757",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W3207688468",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m125",
+   "stratum": "not specified | 2015-2022",
+   "year": 2020,
+   "title": "Enhanced Microseismic Event Detection Using Deep Neural Networks",
+   "doi": "10.3997/2214-4609.202010892",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "CD"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W3121934640",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m53",
+   "stratum": "not specified | 2015-2022",
+   "year": 2018,
+   "title": "Automatic recognition and classification of multi-channel microseismic waveform based on DCNN and SVM",
+   "doi": "10.1016/j.cageo.2018.10.008",
+   "venue": "Computers & Geosciences",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W2898199878",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m115",
+   "stratum": "not specified | 2015-2022",
+   "year": 2020,
+   "title": "Classification of Microseismic Events and Blasts Using Deep Belief Network",
+   "doi": "10.1109/ccdc49329.2020.9164062",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W3049168396",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m57",
+   "stratum": "not specified | 2015-2022",
+   "year": 2018,
+   "title": "Data-Driven Signal Recognition- A Machine Learning Application For The Real-Time Microseismic Monitoring",
+   "doi": "10.3997/2214-4609.201803007",
+   "venue": "Proceedings",
+   "das": false,
+   "tasks2": [
+    "CD"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W2900820321",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m33",
+   "stratum": "not specified | 2015-2022",
+   "year": 2017,
+   "title": "A Time Picking Method Based on Spectral Multimanifold Clustering in Microseismic Data",
+   "doi": "10.1109/lgrs.2017.2705703",
+   "venue": "IEEE Geoscience and Remote Sensing Letters",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W2644262029",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m34",
+   "stratum": "not specified | 2015-2022",
+   "year": 2017,
+   "title": "An automatic microseismic or acoustic emission arrival identification scheme with deep recurrent neural networks",
+   "doi": "10.1093/gji/ggx487",
+   "venue": "Geophysical Journal International",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": true,
+   "oa_url": "https://academic.oup.com/gji/article-pdf/212/2/1389/27761141/ggx487.pdf",
+   "pdf_url": "https://academic.oup.com/gji/article-pdf/212/2/1389/27761141/ggx487.pdf",
+   "openalex": "https://openalex.org/W2767292437",
+   "candidates": [
+    {
+     "url": "https://academic.oup.com/gji/article-pdf/212/2/1389/27761141/ggx487.pdf",
+     "kind": "pdf",
+     "src": "Geophysical Journal International"
+    },
+    {
+     "url": "https://doi.org/10.1093/gji/ggx487",
+     "kind": "landing",
+     "src": "Geophysical Journal International"
+    },
+    {
+     "url": "https://academic.oup.com/gji/article-pdf/212/2/1389/27761141/ggx487.pdf",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m282",
+   "stratum": "not specified | 2015-2022",
+   "year": 2022,
+   "title": "Localizing Microseismic Events Using Semi-Supervised Generative Adversarial Networks",
+   "doi": "10.1109/tgrs.2022.3225415",
+   "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+   "das": false,
+   "tasks2": [
+    "LOC"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4312632645",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m376",
+   "stratum": "not specified | 2023-2024",
+   "year": 2023,
+   "title": "PSSegNet: Segmenting the P- and S-Phases in Microseismic Signals through Deep Learning",
+   "doi": "10.3390/math12010130",
+   "venue": "Mathematics",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": true,
+   "oa_url": "https://www.mdpi.com/2227-7390/12/1/130/pdf?version=1703929679",
+   "pdf_url": "https://www.mdpi.com/2227-7390/12/1/130/pdf?version=1703929679",
+   "openalex": "https://openalex.org/W4390467941",
+   "candidates": [
+    {
+     "url": "https://www.mdpi.com/2227-7390/12/1/130/pdf?version=1703929679",
+     "kind": "pdf",
+     "src": "Mathematics"
+    },
+    {
+     "url": "https://doi.org/10.3390/math12010130",
+     "kind": "landing",
+     "src": "Mathematics"
+    },
+    {
+     "url": "https://doaj.org/article/a64d7c8929ea423582f28930008a9c40",
+     "kind": "landing",
+     "src": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    {
+     "url": "https://www.mdpi.com/2227-7390/12/1/130/pdf?version=1703929679",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m391",
+   "stratum": "not specified | 2023-2024",
+   "year": 2023,
+   "title": "Waveform recognition and process interpretation of microseismic monitoring based on an improved LeNet5 convolutional neural network",
+   "doi": "10.1007/s11771-023-5254-3",
+   "venue": "Journal of Central South University",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4367278308",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m388",
+   "stratum": "not specified | 2023-2024",
+   "year": 2023,
+   "title": "Unsupervised Clustering of Microseismic Signals Using a Contrastive Learning Model",
+   "doi": "10.1109/tgrs.2023.3240728",
+   "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4318586183",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m320",
+   "stratum": "not specified | 2023-2024",
+   "year": 2023,
+   "title": "Automatic detection of microseismic waveform based on machine learning",
+   "doi": "10.3997/2214-4609.2023101440",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4378230877",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m361",
+   "stratum": "not specified | 2023-2024",
+   "year": 2023,
+   "title": "Microseismic Events Recognition via Joint Deep Clustering With Residual Shrinkage Dense Network",
+   "doi": "10.1109/tgrs.2023.3314149",
+   "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+   "das": false,
+   "tasks2": [
+    "CW",
+    "PICK"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4386590644",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m531",
+   "stratum": "not specified | 2025-2026",
+   "year": 2025,
+   "title": "Automated P-wave arrival picking in microseismic monitoring: Integrating multi-feature clustering and enhanced AIC-STA/LTA",
+   "doi": "10.1016/j.measurement.2025.118143",
+   "venue": "Measurement",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4411297737",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m513",
+   "stratum": "not specified | 2025-2026",
+   "year": 2025,
+   "title": "A multi-scale CNN-Transformer hybrid network for microseismic signal arrival picking: Model analysis and engineering application",
+   "doi": "10.1016/j.enggeo.2025.108109",
+   "venue": "Engineering Geology",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4410101613",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m760",
+   "stratum": "not specified | 2025-2026",
+   "year": 2026,
+   "title": "Research on the Lightweight DAMS-Net and Transfer Learning Methods for Microseismic P-Wave Arrival Time Picking",
+   "doi": "10.1007/s00603-026-05569-x",
+   "venue": "Rock Mechanics and Rock Engineering",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7161627886",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m749",
+   "stratum": "not specified | 2025-2026",
+   "year": 2026,
+   "title": "Real-Time Microseismic Event Location With Latent Diffusion Models",
+   "doi": "10.1109/tgrs.2026.3718892",
+   "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+   "das": false,
+   "tasks2": [
+    "LOC"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7172345491",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m530",
+   "stratum": "not specified | 2025-2026",
+   "year": 2025,
+   "title": "Assessing Neural Operators for Microseismic Source Localization",
+   "doi": "10.3997/2214-4609.202521215",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "LOC"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4415494949",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m592",
+   "stratum": "not specified | 2025-2026",
+   "year": 2025,
+   "title": "Microseismic Source Inversion Based on Neural Operator with Physics Constrain",
+   "doi": "10.3997/2214-4609.202510326",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "LOC"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7162289676",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m727",
+   "stratum": "not specified | 2025-2026",
+   "year": 2026,
+   "title": "Microseismic localization method based on adaptive residual neural network with layered medium model",
+   "doi": "10.1016/j.jappgeo.2026.106337",
+   "venue": "Journal of Applied Geophysics",
+   "das": false,
+   "tasks2": [
+    "LOC"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7162254739",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m189",
+   "stratum": "reservoir | 2015-2022",
+   "year": 2021,
+   "title": "Detecting microseismic events on DAS fiber with super-human accuracy",
+   "doi": "10.1190/segam2021-3583060.1",
+   "venue": "",
+   "das": true,
+   "tasks2": [
+    "CD"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W3196507497",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m1214",
+   "stratum": "reservoir | 2015-2022",
+   "year": 2021,
+   "title": "Deep Learning Versus One Neuron for the Problem of Micro-Earthquake Detection",
+   "doi": "10.1002/essoar.10509875.1",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "CD"
+   ],
+   "oa": true,
+   "oa_url": "https://essopenarchive.org/doi/pdf/10.1002/essoar.10509875.1",
+   "pdf_url": "https://essopenarchive.org/doi/pdf/10.1002/essoar.10509875.1",
+   "openalex": "https://openalex.org/W4200321789",
+   "candidates": [
+    {
+     "url": "https://essopenarchive.org/doi/pdf/10.1002/essoar.10509875.1",
+     "kind": "pdf",
+     "src": "repository"
+    },
+    {
+     "url": "https://doi.org/10.1002/essoar.10509875.1",
+     "kind": "landing",
+     "src": "repository"
+    },
+    {
+     "url": "https://essopenarchive.org/doi/pdf/10.1002/essoar.10509875.1",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m1164",
+   "stratum": "reservoir | 2015-2022",
+   "year": 2016,
+   "title": "An efficient repeating signal detector to detect and characterize induced seismicity",
+   "doi": "10.1190/segam2016-13845755.1",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "CD"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W2514771918",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m90",
+   "stratum": "reservoir | 2015-2022",
+   "year": 2019,
+   "title": "Intelligent Microseismic Event Detection Using Kirchhoff Migration Style Stacking in Combination with Iterative Clustering based Segmentation",
+   "doi": "10.3997/2214-4609.201901506",
+   "venue": "81st EAGE Conference and Exhibition 2019",
+   "das": false,
+   "tasks2": [
+    "CD"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W2971261699",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m283",
+   "stratum": "reservoir | 2015-2022",
+   "year": 2022,
+   "title": "Machine learning applications for event detection and phase arrival time estimation of microseismic waveform data at a CO2 injection site.",
+   "doi": "10.2172/2006232",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "CW",
+    "PICK"
+   ],
+   "oa": true,
+   "oa_url": "http://dx.doi.org/10.2172/2006232",
+   "pdf_url": "http://dx.doi.org/10.2172/2006232",
+   "openalex": "https://openalex.org/W4388346228",
+   "candidates": [
+    {
+     "url": "http://dx.doi.org/10.2172/2006232",
+     "kind": "pdf",
+     "src": "repository"
+    },
+    {
+     "url": "http://doi.org/10.2172/2006232",
+     "kind": "landing",
+     "src": "repository"
+    },
+    {
+     "url": "https://www.osti.gov/servlets/purl/2006232",
+     "kind": "pdf",
+     "src": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)"
+    },
+    {
+     "url": "https://www.osti.gov/biblio/2006232",
+     "kind": "landing",
+     "src": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)"
+    },
+    {
+     "url": "http://dx.doi.org/10.2172/2006232",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m1129",
+   "stratum": "reservoir | 2015-2022",
+   "year": 2021,
+   "title": "Towards Synthetically Trained Convolutional Neural Networks for Induced Earthquake Detection and Localization",
+   "doi": "10.3997/2214-4609.202131053",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "CW",
+    "LOC"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4205306397",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m1275",
+   "stratum": "reservoir | 2023-2024",
+   "year": 2023,
+   "title": "Automation of Distributed Acoustic Sensing Passive Seismic Processing",
+   "doi": "10.3997/2214-4609.202310393",
+   "venue": "",
+   "das": true,
+   "tasks2": [
+    "PICK",
+    "LOC"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4378230897",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m350",
+   "stratum": "reservoir | 2023-2024",
+   "year": 2023,
+   "title": "Machine learning automatic picker for geothermal microseismicity analysis for practical procedure to reveal fine reservoir structures",
+   "doi": "10.1016/j.geothermics.2023.102832",
+   "venue": "Geothermics",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4387423839",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m494",
+   "stratum": "reservoir | 2023-2024",
+   "year": 2024,
+   "title": "Supervised Deep Learning for Detecting and Locating Passive Seismic Events Recorded with DAS: A Case Study",
+   "doi": "10.3390/s24216978",
+   "venue": "Sensors",
+   "das": true,
+   "tasks2": [
+    "CW",
+    "LOC"
+   ],
+   "oa": true,
+   "oa_url": "https://www.mdpi.com/1424-8220/24/21/6978/pdf?version=1730459642",
+   "pdf_url": "https://www.mdpi.com/1424-8220/24/21/6978/pdf?version=1730459642",
+   "openalex": "https://openalex.org/W4403968387",
+   "candidates": [
+    {
+     "url": "https://www.mdpi.com/1424-8220/24/21/6978/pdf?version=1730459642",
+     "kind": "pdf",
+     "src": "Sensors"
+    },
+    {
+     "url": "https://doi.org/10.3390/s24216978",
+     "kind": "landing",
+     "src": "Sensors"
+    },
+    {
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11548527/pdf/sensors-24-06978.pdf",
+     "kind": "pdf",
+     "src": "PubMed Central"
+    },
+    {
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11548527",
+     "kind": "landing",
+     "src": "PubMed Central"
+    },
+    {
+     "url": "https://doi.org/10.3390/s24216978",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m330",
+   "stratum": "reservoir | 2023-2024",
+   "year": 2023,
+   "title": "Deep learning based microearthquake location prediction at Newberry EGS using physics-informed synthetic dataset",
+   "doi": "10.1190/image2023-3910882.1",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "LOC"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4389767315",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m344",
+   "stratum": "reservoir | 2023-2024",
+   "year": 2023,
+   "title": "Integrated machine learning models of event detection and source location identification for fault imaging using raw continuous IBDP microseismic data",
+   "doi": "10.2172/2463057",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "CD",
+    "LOC"
+   ],
+   "oa": true,
+   "oa_url": "https://doi.org/10.2172/2463057",
+   "pdf_url": "https://doi.org/10.2172/2463057",
+   "openalex": "https://openalex.org/W4403410657",
+   "candidates": [
+    {
+     "url": "https://doi.org/10.2172/2463057",
+     "kind": "pdf",
+     "src": "repository"
+    },
+    {
+     "url": "https://doi.org/10.2172/2463057",
+     "kind": "landing",
+     "src": "repository"
+    },
+    {
+     "url": "https://www.osti.gov/servlets/purl/2463057",
+     "kind": "pdf",
+     "src": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)"
+    },
+    {
+     "url": "https://www.osti.gov/biblio/2463057",
+     "kind": "landing",
+     "src": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)"
+    },
+    {
+     "url": "https://doi.org/10.2172/2463057",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m662",
+   "stratum": "reservoir | 2025-2026",
+   "year": 2026,
+   "title": "Argus: A Sparse-Label Machine-Learning Workflow for Passive DAS Seismic Catalogue Expansion in CO2 Storage Monitoring—Application to the CO2CRC Otway Stage 4 Dataset",
+   "doi": "10.3390/s26165084",
+   "venue": "Sensors",
+   "das": true,
+   "tasks2": [
+    "CD"
+   ],
+   "oa": true,
+   "oa_url": "https://doi.org/10.3390/s26165084",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7202159701",
+   "candidates": [
+    {
+     "url": "https://doi.org/10.3390/s26165084",
+     "kind": "landing",
+     "src": "Sensors"
+    },
+    {
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13517228/",
+     "kind": "landing",
+     "src": "PubMed Central"
+    },
+    {
+     "url": "https://refubium.fu-berlin.de/handle/fub188/53840",
+     "kind": "landing",
+     "src": "Refubium (Universitätsbibliothek der Freien Universität Berlin)"
+    },
+    {
+     "url": "https://doi.org/10.17169/refubium-53577",
+     "kind": "landing",
+     "src": "Universitätsbibliothek der FU Berlin Hochschulschriftenstelle u. Dokumentenserver"
+    },
+    {
+     "url": "https://doi.org/10.3390/s26165084",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m1121",
+   "stratum": "reservoir | 2025-2026",
+   "year": 2025,
+   "title": "HEIMDALL: a grapH-based sEIsMic Detector And Locator for microseismicity",
+   "doi": "10.48550/arxiv.2507.10850",
+   "venue": "arXiv (Cornell University)",
+   "das": false,
+   "tasks2": [
+    "CD",
+    "PICK",
+    "LOC"
+   ],
+   "oa": true,
+   "oa_url": "https://arxiv.org/pdf/2507.10850",
+   "pdf_url": "https://arxiv.org/pdf/2507.10850",
+   "openalex": "https://openalex.org/W4414743705",
+   "candidates": [
+    {
+     "url": "https://arxiv.org/pdf/2507.10850",
+     "kind": "pdf",
+     "src": "arXiv (Cornell University)"
+    },
+    {
+     "url": "http://arxiv.org/abs/2507.10850",
+     "kind": "landing",
+     "src": "arXiv (Cornell University)"
+    },
+    {
+     "url": "https://doi.org/10.48550/arxiv.2507.10850",
+     "kind": "landing",
+     "src": "arXiv (Cornell University)"
+    },
+    {
+     "url": "https://arxiv.org/pdf/2507.10850",
+     "kind": "pdf",
+     "src": "arXiv"
+    }
+   ],
+   "fulltext": {
+    "file": "m1121.pdf",
+    "url": "https://arxiv.org/pdf/2507.10850",
+    "src": "arXiv (Cornell University)",
+    "bytes": 4748837
+   }
+  },
+  {
+   "id": "m655",
+   "stratum": "reservoir | 2025-2026",
+   "year": 2026,
+   "title": "A Semi-Supervised Approach to Microseismic Source Localization with Masked Pre-Training and Residual Convolutional Autoencoder",
+   "doi": "10.3390/app16020683",
+   "venue": "Applied Sciences",
+   "das": false,
+   "tasks2": [
+    "LOC"
+   ],
+   "oa": true,
+   "oa_url": "https://doi.org/10.3390/app16020683",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7119506446",
+   "candidates": [
+    {
+     "url": "https://doi.org/10.3390/app16020683",
+     "kind": "landing",
+     "src": "Applied Sciences"
+    },
+    {
+     "url": "https://doaj.org/article/cd1690641b354df3a86ee46158fd5b85",
+     "kind": "landing",
+     "src": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    {
+     "url": "https://doi.org/10.3390/app16020683",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m674",
+   "stratum": "reservoir | 2025-2026",
+   "year": 2026,
+   "title": "Deep learning for distributed acoustic sensing-based microseismic candidate-window classification in enhanced geothermal systems: A comparative study of twelve architectures",
+   "doi": "10.1016/j.engappai.2026.115622",
+   "venue": "Engineering Applications of Artificial Intelligence",
+   "das": true,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": true,
+   "oa_url": "https://doi.org/10.1016/j.engappai.2026.115622",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7169661222",
+   "candidates": [
+    {
+     "url": "https://doi.org/10.1016/j.engappai.2026.115622",
+     "kind": "landing",
+     "src": "Engineering Applications of Artificial Intelligence"
+    },
+    {
+     "url": "https://doi.org/10.1016/j.engappai.2026.115622",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m1138",
+   "stratum": "reservoir | 2025-2026",
+   "year": 2026,
+   "title": "Explainable AI for microseismic event detection",
+   "doi": "10.1016/j.aiig.2026.100246",
+   "venue": "Artificial Intelligence in Geosciences",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": true,
+   "oa_url": "https://doi.org/10.1016/j.aiig.2026.100246",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4415964563",
+   "candidates": [
+    {
+     "url": "https://doi.org/10.1016/j.aiig.2026.100246",
+     "kind": "landing",
+     "src": "Artificial Intelligence in Geosciences"
+    },
+    {
+     "url": "https://arxiv.org/pdf/2510.17458",
+     "kind": "pdf",
+     "src": "arXiv (Cornell University)"
+    },
+    {
+     "url": "http://arxiv.org/abs/2510.17458",
+     "kind": "landing",
+     "src": "arXiv (Cornell University)"
+    },
+    {
+     "url": "https://doi.org/10.48550/arxiv.2510.17458",
+     "kind": "landing",
+     "src": "arXiv (Cornell University)"
+    }
+   ],
+   "fulltext": {
+    "file": "m1138.pdf",
+    "url": "https://arxiv.org/pdf/2510.17458",
+    "src": "arXiv (Cornell University)",
+    "bytes": 2700298
+   }
+  },
+  {
+   "id": "m791",
+   "stratum": "reservoir | 2025-2026",
+   "year": 2026,
+   "title": "VSNet: Deep-learning inversion of velocity structures and source locations with passive seismic data",
+   "doi": "10.1190/image2025-4316895.1",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "LOC"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7147420110",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m785",
+   "stratum": "reservoir | 2025-2026",
+   "year": 2026,
+   "title": "Two kinds of robustness are not the same: disentangling fault tolerance and low-SNR robustness in multi-domain event detection on real data",
+   "doi": "10.48550/arxiv.2606.29339",
+   "venue": "arXiv (Cornell University)",
+   "das": true,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": true,
+   "oa_url": "https://arxiv.org/pdf/2606.29339",
+   "pdf_url": "https://arxiv.org/pdf/2606.29339",
+   "openalex": "https://openalex.org/W7166645181",
+   "candidates": [
+    {
+     "url": "https://arxiv.org/pdf/2606.29339",
+     "kind": "pdf",
+     "src": "arXiv (Cornell University)"
+    },
+    {
+     "url": "https://arxiv.org/abs/2606.29339",
+     "kind": "landing",
+     "src": "arXiv (Cornell University)"
+    },
+    {
+     "url": "https://doi.org/10.48550/arxiv.2606.29339",
+     "kind": "landing",
+     "src": "arXiv (Cornell University)"
+    },
+    {
+     "url": "https://arxiv.org/pdf/2606.29339",
+     "kind": "pdf",
+     "src": "arXiv"
+    }
+   ],
+   "fulltext": {
+    "file": "m785.pdf",
+    "url": "https://arxiv.org/pdf/2606.29339",
+    "src": "arXiv (Cornell University)",
+    "bytes": 2120597
+   }
+  },
+  {
+   "id": "m923",
+   "stratum": "tunnel/slope | 2015-2022",
+   "year": 2020,
+   "title": "Graph-Based Micro-Seismic Signal Classification with an Optimised Feature Space",
+   "doi": "10.1109/igarss39084.2020.9323375",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W3014347301",
+   "candidates": [
+    {
+     "url": "https://strathprints.strath.ac.uk/71946/1/Li_etal_IGRSS2020_Graph_based_micro_seismic_signal_classification_with_an_optimised_feature_space.pdf",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": {
+    "file": "m923.pdf",
+    "url": "https://strathprints.strath.ac.uk/71946/1/Li_etal_IGRSS2020_Graph_based_micro_seismic_signal_classification_with_an_optimised_feature_space.pdf",
+    "src": "semanticscholar",
+    "bytes": 407861
+   }
+  },
+  {
+   "id": "m247",
+   "stratum": "tunnel/slope | 2015-2022",
+   "year": 2022,
+   "title": "Application of Deep Learning in Microseismic Waveform Classification: A Case Study of The Yebatan Hydropower Station Project",
+   "doi": "10.1109/ichce57331.2022.10042535",
+   "venue": "2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE)",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4321260932",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m802",
+   "stratum": "tunnel/slope | 2015-2022",
+   "year": 2021,
+   "title": "Automatic recognition and classification of microseismic waveforms based on computer vision",
+   "doi": "10.1016/j.tust.2021.104327",
+   "venue": "Tunnelling and Underground Space Technology",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4200306632",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m490",
+   "stratum": "tunnel/slope | 2023-2024",
+   "year": 2024,
+   "title": "Siamese Unsupervised Clustering For Removing Uncertainty In Microseismic Signal Labelling",
+   "doi": "10.1109/igarss53475.2024.10641807",
+   "venue": "",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": true,
+   "oa_url": "https://strathprints.strath.ac.uk/90122/7/Murray-etal-IGARSS-2024-Siamese-unsupervised-clustering-for-removing-uncertainty.pdf",
+   "pdf_url": "https://strathprints.strath.ac.uk/90122/7/Murray-etal-IGARSS-2024-Siamese-unsupervised-clustering-for-removing-uncertainty.pdf",
+   "openalex": "https://openalex.org/W4402259960",
+   "candidates": [
+    {
+     "url": "https://strathprints.strath.ac.uk/90122/7/Murray-etal-IGARSS-2024-Siamese-unsupervised-clustering-for-removing-uncertainty.pdf",
+     "kind": "pdf",
+     "src": "repository"
+    },
+    {
+     "url": "https://doi.org/10.1109/igarss53475.2024.10641807",
+     "kind": "landing",
+     "src": "repository"
+    },
+    {
+     "url": "https://strathprints.strath.ac.uk/90122/7/Murray-etal-IGARSS-2024-Siamese-unsupervised-clustering-for-removing-uncertainty.pdf",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": {
+    "file": "m490.pdf",
+    "url": "https://strathprints.strath.ac.uk/90122/7/Murray-etal-IGARSS-2024-Siamese-unsupervised-clustering-for-removing-uncertainty.pdf",
+    "src": "repository",
+    "bytes": 697332
+   }
+  },
+  {
+   "id": "m349",
+   "stratum": "tunnel/slope | 2023-2024",
+   "year": 2023,
+   "title": "Landslide-Induced Seismic Signal Clustering With Outlier Removal",
+   "doi": "10.1109/lgrs.2023.3327044",
+   "venue": "IEEE Geoscience and Remote Sensing Letters",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4387917991",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m395",
+   "stratum": "tunnel/slope | 2023-2024",
+   "year": 2024,
+   "title": "A Dual-Task Approach for Onset Time Picking and the Detection of Microseismic Waveforms Based on Deep Learning",
+   "doi": "10.3390/app142411689",
+   "venue": "Applied Sciences",
+   "das": false,
+   "tasks2": [
+    "CW",
+    "PICK"
+   ],
+   "oa": true,
+   "oa_url": "https://www.mdpi.com/2076-3417/14/24/11689/pdf?version=1734170231",
+   "pdf_url": "https://www.mdpi.com/2076-3417/14/24/11689/pdf?version=1734170231",
+   "openalex": "https://openalex.org/W4405419376",
+   "candidates": [
+    {
+     "url": "https://www.mdpi.com/2076-3417/14/24/11689/pdf?version=1734170231",
+     "kind": "pdf",
+     "src": "Applied Sciences"
+    },
+    {
+     "url": "https://doi.org/10.3390/app142411689",
+     "kind": "landing",
+     "src": "Applied Sciences"
+    },
+    {
+     "url": "https://doaj.org/article/267bd6511b534d94bc08c183cd955ac0",
+     "kind": "landing",
+     "src": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    {
+     "url": "https://doi.org/10.3390/app142411689",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m334",
+   "stratum": "tunnel/slope | 2023-2024",
+   "year": 2023,
+   "title": "Distributed Acoustic Sensing and Machine Learning: Rockfall Detection at Mt. Meager, B.C.",
+   "doi": "10.3997/2214-4609.202320030",
+   "venue": "",
+   "das": true,
+   "tasks2": [
+    "CD"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4385362114",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m523",
+   "stratum": "tunnel/slope | 2025-2026",
+   "year": 2025,
+   "title": "An efficiently designed CNN-Transformer fusion network for automatic and real-time microseismic signal classification",
+   "doi": "10.1016/j.tust.2025.106534",
+   "venue": "Tunnelling and Underground Space Technology",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4408133510",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m691",
+   "stratum": "tunnel/slope | 2025-2026",
+   "year": 2026,
+   "title": "Fast and effective classification of landslide microseismicity: a machine learning perspective",
+   "doi": "10.1016/j.enggeo.2026.108698",
+   "venue": "Engineering Geology",
+   "das": false,
+   "tasks2": [
+    "ET"
+   ],
+   "oa": true,
+   "oa_url": "https://doi.org/10.1016/j.enggeo.2026.108698",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7139971178",
+   "candidates": [
+    {
+     "url": "https://doi.org/10.1016/j.enggeo.2026.108698",
+     "kind": "landing",
+     "src": "Engineering Geology"
+    },
+    {
+     "url": "https://doi.org/10.1016/j.enggeo.2026.108698",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m685",
+   "stratum": "tunnel/slope | 2025-2026",
+   "year": 2026,
+   "title": "Dual-event arrival-time picking for downhole microseismic monitoring using a fully convolutional network",
+   "doi": "10.1007/s11600-026-01898-1",
+   "venue": "Acta Geophysica",
+   "das": false,
+   "tasks2": [
+    "PICK"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W7161951622",
+   "candidates": [],
+   "fulltext": null
+  },
+  {
+   "id": "m750",
+   "stratum": "tunnel/slope | 2025-2026",
+   "year": 2026,
+   "title": "Real-time microseismic source localization in deep tunnel using physics-informed neural networks",
+   "doi": "10.1016/j.jrmge.2026.07.013",
+   "venue": "Journal of Rock Mechanics and Geotechnical Engineering",
+   "das": false,
+   "tasks2": [
+    "LOC"
+   ],
+   "oa": true,
+   "oa_url": "https://www.sciencedirect.com/science/article/pii/S1674775526005305/pdf",
+   "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1674775526005305/pdf",
+   "openalex": "https://openalex.org/W7212390535",
+   "candidates": [
+    {
+     "url": "https://www.sciencedirect.com/science/article/pii/S1674775526005305/pdf",
+     "kind": "pdf",
+     "src": "Journal of Rock Mechanics and Geotechnical Engineering"
+    },
+    {
+     "url": "https://doi.org/10.1016/j.jrmge.2026.07.013",
+     "kind": "landing",
+     "src": "Journal of Rock Mechanics and Geotechnical Engineering"
+    },
+    {
+     "url": "https://www.sciencedirect.com/science/article/pii/S1674775526005305/pdf",
+     "kind": "pdf",
+     "src": "semanticscholar"
+    }
+   ],
+   "fulltext": null
+  },
+  {
+   "id": "m964",
+   "stratum": "tunnel/slope | 2025-2026",
+   "year": 2025,
+   "title": "Adaptive Classification Model Based on Dynamic Variations in Microseismic Signal Characteristics",
+   "doi": "10.1007/s00603-025-05006-5",
+   "venue": "Rock Mechanics and Rock Engineering",
+   "das": false,
+   "tasks2": [
+    "CW"
+   ],
+   "oa": false,
+   "oa_url": "",
+   "pdf_url": "",
+   "openalex": "https://openalex.org/W4415407569",
+   "candidates": [],
+   "fulltext": null
+  }
+ ]
+}

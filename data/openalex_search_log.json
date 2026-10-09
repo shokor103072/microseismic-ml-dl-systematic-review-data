@@ -1,0 +1,22 @@
+{
+ "runDate": "2026-09-25",
+ "window": [
+  "2015-01-01",
+  "2026-09-26"
+ ],
+ "queries": {
+  "S1_original_blocks": "title_and_abstract.search:(microseismic OR \"micro-seismic\" OR microseismicity OR microearthquake OR \"induced seismicity\" OR \"induced seismic\" OR \"hydraulic fracturing\") AND (\"distributed acoustic sensing\" OR \"distributed acoustic sensor\" OR DAS OR OTDR OR \"fiber optic\" OR \"fibre optic\" OR geophone) AND (\"event detection\" OR \"microseismic event detection\" OR \"arrival time picking\" OR \"phase picking\" OR \"anomaly detection\" OR trigger) AND (\"machine learning\" OR \"deep learning\" OR \"neural network\" OR CNN OR \"convolutional neural network\" OR Transformer OR \"self-attention\" OR \"U-Net\" OR UNet OR SVM OR \"support vector machine\" OR \"random forest\" OR \"gradient boosting\" OR XGBoost OR LightGBM OR \"logistic regression\")",
+  "S2_relaxed_task": "title_and_abstract.search:(microseismic OR \"micro-seismic\" OR microseismicity OR microearthquake OR \"induced seismicity\" OR \"induced seismic\" OR \"hydraulic fracturing\") AND (\"distributed acoustic sensing\" OR \"distributed acoustic sensor\" OR DAS OR OTDR OR \"fiber optic\" OR \"fibre optic\" OR geophone) AND (detection OR detector OR detect OR picking OR picker OR \"first arrival\" OR \"arrival time\" OR identification OR recognition OR classification OR trigger OR \"anomaly detection\") AND (\"machine learning\" OR \"deep learning\" OR \"neural network\" OR CNN OR \"convolutional neural network\" OR Transformer OR \"self-attention\" OR \"U-Net\" OR UNet OR SVM OR \"support vector machine\" OR \"random forest\" OR \"gradient boosting\" OR XGBoost OR LightGBM OR \"logistic regression\")",
+  "S3_title_only": "title.search:(microseismic OR \"micro-seismic\" OR microseismicity OR \"micro-seismicity\" OR microearthquake OR \"induced seismicity\" OR \"induced seismic\" OR \"distributed acoustic sensing\") AND (\"machine learning\" OR \"deep learning\" OR neural OR network OR networks OR transformer OR CNN OR \"U-Net\" OR learning OR SVM OR \"support vector\" OR \"random forest\" OR clustering OR diffusion OR operator OR attention OR LSTM OR autoencoder OR intelligent)"
+ },
+ "counts": {
+  "S1_original_blocks": 48,
+  "S2_relaxed_task": 141,
+  "S3_title_only": 1195,
+  "S4_forward_citation_update_window": 227,
+  "records_before_dedup": 1611,
+  "unique_records": 1465,
+  "matched_corpusB_records": 56,
+  "matched_corpusB_ids": 49
+ }
+}

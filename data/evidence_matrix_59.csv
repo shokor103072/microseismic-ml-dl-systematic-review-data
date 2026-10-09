@@ -1,0 +1,60 @@
+study_id,year,tasks,I1,I2,R1,R2,E1,E2,O1,O2,O3,O4,authored_by_review_team
+P1,2016,event-type classification,Y,N,Y,Y,N,Y,N,Y,N,N,0
+P2,2017,candidate-window classification,N,Y,Y,Y,N,N,N,Y,N,N,0
+P3,2018,candidate-window classification,NA,NA,Y,S,N,Y,N,N,N,P,0
+P5,2018,"candidate-window classification; location",Y,Y,Y,S,N,Y,N,N,N,Y,0
+P6,2019,"candidate-window classification; arrival picking",N,Y,Y,Y,N,Y,N,N,N,Y,0
+P7,2019,continuous detection,N,N,Y,S,N,N,Y,N,N,Y,0
+P9,2019,"continuous detection; event-type classification; location",N,Y,Y,Y,N,Y,Y,Y,N,Y,0
+P13,2022,event-type classification,Y,Y,Y,Y,P,Y,N,Y,N,P,0
+P15,2020,candidate-window classification,N,Y,Y,Y,N,N,N,Y,N,Y,0
+P16,2020,"candidate-window classification; arrival picking",N,Y,Y,Y,N,Y,N,N,N,N,0
+P18,2020,continuous detection,Y,Y,Y,Y,Y,N,Y,Y,Y,N,0
+P20,2020,"candidate-window classification; arrival picking",Y,Y,Y,Y,N,Y,N,N,N,P,0
+P21,2021,candidate-window classification,N,N,Y,S,N,Y,N,N,N,P,0
+P22,2022,arrival picking,NA,NA,Y,Y,N,Y,NA,NA,NA,P,0
+P23,2021,arrival picking,NA,NA,Y,S,N,Y,NA,NA,NA,N,0
+P24,2021,"continuous detection; event-type classification",N,N,Y,Y,P,N,Y,Y,N,P,0
+P26,2021,"continuous detection; location",Y,Y,Y,Y,P,N,Y,Y,N,Y,0
+P28,2021,candidate-window classification,N,Y,N,N,N,N,N,N,N,N,0
+P29,2022,location,Y,Y,Y,Y,P,Y,NA,NA,NA,Y,0
+P31,2022,event-type classification,N,Y,Y,Y,N,N,N,N,N,N,0
+P32,2022,location,Y,Y,Y,Y,P,Y,NA,NA,NA,P,0
+P33,2022,continuous detection,Y,Y,Y,Y,N,N,Y,Y,N,P,0
+P34,2022,arrival picking,N,N,Y,Y,N,N,NA,NA,NA,N,0
+P36,2022,continuous detection,Y,Y,Y,Y,N,N,Y,Y,N,P,0
+P37,2022,"continuous detection; location",Y,Y,Y,Y,N,N,Y,Y,N,N,0
+P38,2022,location,Y,Y,Y,Y,P,Y,NA,NA,NA,Y,0
+P39,2022,location,Y,Y,Y,Y,P,N,NA,NA,NA,P,0
+P40,2022,location,N,Y,Y,S,N,Y,NA,NA,NA,P,0
+P41,2022,"candidate-window classification; location",N,Y,Y,S,P,Y,N,Y,N,P,0
+P42,2022,location,Y,Y,Y,Y,P,N,NA,NA,NA,Y,0
+P44,2021,continuous detection,N,Y,Y,S,N,Y,Y,Y,N,Y,0
+P45,2023,"continuous detection; arrival picking",Y,Y,Y,Y,N,N,Y,Y,N,N,0
+P47,2023,continuous detection,N,N,Y,N,N,Y,Y,N,N,N,0
+P48,2023,"continuous detection; arrival picking; location",N,N,Y,Y,Y,N,Y,Y,N,N,0
+P51,2023,candidate-window classification,N,Y,Y,S,P,Y,N,Y,N,P,0
+P52,2024,"candidate-window classification; location",N,N,Y,S,P,N,N,Y,N,N,0
+P53,2024,candidate-window classification,N,Y,Y,Y,N,N,N,N,N,N,1
+P54,2024,candidate-window classification,N,N,N,N,N,N,N,N,N,N,1
+P55,2024,arrival picking,Y,Y,Y,Y,N,Y,NA,NA,NA,Y,0
+P56,2024,"candidate-window classification; arrival picking",Y,Y,Y,Y,Y,Y,N,N,N,N,0
+P57,2023,candidate-window classification,Y,Y,Y,Y,N,Y,N,Y,N,N,0
+P58,2024,"continuous detection; event-type classification; arrival picking; location",NA,NA,Y,Y,Y,N,Y,N,N,N,0
+P59,2024,"continuous detection; arrival picking; location",NA,NA,Y,Y,N,N,Y,N,N,N,0
+P60,2024,location,N,Y,Y,S,N,Y,NA,NA,NA,P,0
+P63,2024,continuous detection,NA,NA,Y,Y,N,Y,Y,N,Y,Y,0
+P65,2024,continuous detection,Y,Y,Y,Y,Y,N,Y,N,N,Y,0
+P66,2024,continuous detection,N,Y,Y,Y,N,N,Y,N,N,N,0
+P67,2024,event-type classification,N,Y,Y,Y,N,N,N,Y,N,N,0
+P68,2024,location,Y,Y,Y,S,P,Y,NA,NA,NA,P,0
+P69,2024,continuous detection,N,Y,Y,Y,N,N,Y,Y,Y,Y,0
+P71,2025,"candidate-window classification; arrival picking",N,Y,Y,Y,N,Y,N,N,N,P,0
+P73,2025,arrival picking,N,Y,Y,Y,N,Y,NA,NA,NA,P,0
+P74,2025,"continuous detection; event-type classification",Y,Y,Y,Y,N,Y,Y,Y,N,Y,0
+P75,2025,event-type classification,Y,Y,Y,Y,Y,N,N,Y,N,P,1
+P77,2025,location,Y,Y,Y,Y,P,N,NA,NA,NA,Y,0
+P78,2025,"arrival picking; location",NA,NA,Y,S,N,Y,NA,NA,NA,N,0
+P80,2025,candidate-window classification,N,Y,Y,Y,N,Y,N,Y,N,P,0
+P81,2024,"candidate-window classification; location",Y,Y,Y,Y,P,Y,N,Y,N,P,0
+P82,2025,location,Y,Y,Y,Y,N,Y,NA,NA,NA,P,0

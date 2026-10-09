@@ -1,0 +1,163 @@
+{
+ "P1": {
+  "setting": "OG",
+  "note": "salt-cavern (Napoleonville) induced microearthquakes"
+ },
+ "P6": {
+  "fam": [
+   "CNN"
+  ],
+  "regime": []
+ },
+ "P7": {
+  "tasks": [
+   "DET"
+  ]
+ },
+ "P12": {
+  "setting": "HF",
+  "fam": [
+   "CNN"
+  ]
+ },
+ "P13": {
+  "data": "HYB"
+ },
+ "P21": {
+  "fam": [
+   "CML"
+  ],
+  "regime": [],
+  "flag": "hydrophone (pressure) data from a synthetic marine model; sensing criterion borderline; ML used as Gaussian-process surrogate forward model"
+ },
+ "P22": {
+  "tasks": [
+   "PICK"
+  ]
+ },
+ "P28": {
+  "setting": "MIN"
+ },
+ "P29": {
+  "tasks": [
+   "LOC"
+  ],
+  "regime": []
+ },
+ "P31": {
+  "tasks": [
+   "DET"
+  ]
+ },
+ "P32": {
+  "tasks": [
+   "LOC"
+  ]
+ },
+ "P33": {
+  "setting": "HF"
+ },
+ "P34": {
+  "tasks": [
+   "PICK"
+  ]
+ },
+ "P38": {
+  "fam": [
+   "UNET"
+  ]
+ },
+ "P39": {
+  "tasks": [
+   "LOC"
+  ],
+  "fam": [
+   "CNN"
+  ]
+ },
+ "P41": {
+  "setting": "GT"
+ },
+ "P44": {
+  "modality": "DAS"
+ },
+ "P45": {
+  "fam": [
+   "CNN",
+   "RNN"
+  ]
+ },
+ "P55": {
+  "setting": "GEN"
+ },
+ "P57": {
+  "setting": "OG",
+  "note": "Groningen gas field (KNMI G-network borehole geophones)"
+ },
+ "P58": {
+  "setting": "CCS",
+  "fam": [
+   "UNET"
+  ],
+  "regime": [],
+  "note": "Quest CCS; PhaseNet-based detection with sensor comparison"
+ },
+ "P59": {
+  "fam": [
+   "UNET"
+  ],
+  "tasks": [
+   "DET",
+   "PICK",
+   "LOC"
+  ],
+  "regime": [
+   "TL"
+  ],
+  "note": "LOC-FLOW catalogue workflow with pretrained PhaseNet picker, REAL association and hypoDD relocation; ML component confirmed"
+ },
+ "P60": {
+  "fam": [
+   "UNET",
+   "TRF"
+  ]
+ },
+ "P63": {
+  "fam": [
+   "ALG",
+   "CML"
+  ],
+  "regime": [],
+  "flag": "semblance-based detector with an unsupervised clustering stage"
+ },
+ "P66": {
+  "modality": "DAS",
+  "tasks": [
+   "DET"
+  ],
+  "fam": [
+   "AE",
+   "CNN"
+  ]
+ },
+ "P68": {
+  "tasks": [
+   "LOC"
+  ]
+ },
+ "P73": {
+  "tasks": [
+   "PICK"
+  ]
+ },
+ "P74": {
+  "regime": [
+   "SEMI"
+  ]
+ },
+ "P82": {
+  "tasks": [
+   "LOC"
+  ]
+ }
+}

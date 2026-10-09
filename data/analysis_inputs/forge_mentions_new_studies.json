@@ -1,0 +1,16 @@
+{
+ "regex": "FORGE|Utah Frontier|Milford (case-insensitive)",
+ "applied_to": "title and abstract of the new studies (OpenAlex)",
+ "ids": [
+  "m319",
+  "m432",
+  "m457",
+  "m580",
+  "m593",
+  "m632",
+  "m674",
+  "m785",
+  "m787",
+  "m968"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "I1": "Leakage-aware partition: test data are separate events, time blocks, wells, profiles, sites or data sets (Y); random or ratio split of windows, traces or samples, or not described (N); no supervised training (NA)",
+ "I2": "Independent test set not used for training or model selection (Y); only validation or cross-validation reported, or not described (N); no supervised training (NA)",
+ "R1": "Label provenance stated (Y/N)",
+ "R2": "Reference standard: field labels made or checked by analysts or an independent catalogue (Y); synthetic ground truth only (S); automated labels without verification or not stated (N); no labels used (NA)",
+ "E1": "External validity: test on a different site, well, sensor type or acquisition (Y); synthetic-to-field test at the same site only (P); none (N)",
+ "E2": "Robustness: controlled perturbation or stratified test (SNR levels, added noise, channel or receiver loss, velocity-model error) (Y/N)",
+ "O1": "Continuous-data evaluation: detector applied to continuous records or compared with a catalogue over a monitoring period (Y/N); picking- or location-only study (NA)",
+ "O2": "Class prevalence of the evaluation data stated (Y/N); not a detection or classification task (NA)",
+ "O3": "False alarms per unit time reported (Y/N); not a detection task (NA)",
+ "O4": "Latency or throughput with hardware (Y); only one of the two (P); neither (N)"
+}

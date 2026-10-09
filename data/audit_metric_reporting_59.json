@@ -1,0 +1,59 @@
+{
+ "note": "Studies of the audited core reporting task-appropriate metrics, from the master-table fields Performance Metrics and Performance Metrics Results",
+ "det_pr_reported": [
+  "P1",
+  "P13",
+  "P18",
+  "P31",
+  "P36",
+  "P37",
+  "P44",
+  "P48",
+  "P51",
+  "P63",
+  "P65",
+  "P67",
+  "P74",
+  "P75",
+  "P80"
+ ],
+ "det_f1_extractable": [
+  "P1",
+  "P31",
+  "P36",
+  "P48",
+  "P65",
+  "P67",
+  "P74",
+  "P75",
+  "P80"
+ ],
+ "pick_timing_error": [
+  "P6",
+  "P20",
+  "P22",
+  "P23",
+  "P34",
+  "P55",
+  "P56",
+  "P71",
+  "P73",
+  "P78"
+ ],
+ "loc_error": [
+  "P23",
+  "P26",
+  "P29",
+  "P32",
+  "P38",
+  "P39",
+  "P40",
+  "P41",
+  "P42",
+  "P60",
+  "P68",
+  "P77",
+  "P81",
+  "P82"
+ ]
+}

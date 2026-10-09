@@ -1,0 +1,34 @@
+{
+ "runDate": "2026-09-26",
+ "window": [
+  "2015-01-01",
+  "2026-09-27"
+ ],
+ "queries": {
+  "S5a_title_task_no_ML": "title.search:(microseismic OR \"micro-seismic\" OR microseismicity OR \"micro-seismicity\" OR microearthquake OR \"micro-earthquake\" OR \"induced seismicity\" OR \"induced earthquake\" OR \"induced earthquakes\" OR \"mining-induced\" OR \"mine seismicity\" OR \"mining seismicity\" OR geoacoustic OR rockburst OR \"rock burst\") AND (detection OR detect OR detector OR picking OR picker OR arrival OR phase OR classification OR classify OR identification OR identify OR recognition OR location OR localization OR locating OR automatic OR automated OR catalog OR catalogue)",
+  "S5b_DAS_no_microseismic_term": "title_and_abstract.search:(\"distributed acoustic sensing\" OR \"distributed fiber optic\" OR \"distributed fibre optic\" OR \"fiber-optic seismic\" OR \"fibre-optic seismic\") AND (\"machine learning\" OR \"deep learning\" OR \"neural network\" OR \"neural networks\" OR CNN OR \"convolutional\" OR Transformer OR \"U-Net\" OR LSTM OR SVM OR \"support vector\" OR \"random forest\" OR XGBoost OR \"artificial intelligence\" OR \"data-driven\") AND (event OR events OR earthquake OR earthquakes OR seismicity OR picking OR arrival OR location OR localization)",
+  "S5c_mining_seismicity_terms": "title_and_abstract.search:(geoacoustic OR rockburst OR \"rock burst\" OR \"mine tremor\" OR \"mine tremors\" OR \"mining-induced seismicity\" OR \"mine seismic\" OR \"coal mine seismic\") AND (\"machine learning\" OR \"deep learning\" OR \"neural network\" OR \"neural networks\" OR CNN OR \"convolutional\" OR Transformer OR \"U-Net\" OR LSTM OR SVM OR \"support vector\" OR \"random forest\" OR XGBoost OR \"artificial intelligence\" OR \"data-driven\") AND (classification OR identification OR recognition OR detection OR picking OR arrival OR location OR localization)"
+ },
+ "counts": {
+  "S5a_title_task_no_ML": 1678,
+  "S5b_DAS_no_microseismic_term": 786,
+  "S5c_mining_seismicity_terms": 322,
+  "unique_records": 2655,
+  "already_retrieved_S1_S4": 636,
+  "new_records": 2019,
+  "prescreen": {
+   "auto_excl: no ML/DL term": 529,
+   "manual": 711,
+   "corpusB": 13,
+   "auto_excl: no microseismic/induced-seismicity setting term": 393,
+   "auto_excl: non-research document type": 91,
+   "auto_excl: conference abstract (insufficient detail)": 166,
+   "auto_excl: thesis/dissertation": 37,
+   "auto_excl: dataset/software record": 45,
+   "auto_excl: book or book chapter": 12,
+   "auto_excl: non-English": 21,
+   "auto_excl: review article (secondary study)": 1
+  }
+ },
+ "rule_change": "setting-term rule extended by geoacoustic|tremor"
+}

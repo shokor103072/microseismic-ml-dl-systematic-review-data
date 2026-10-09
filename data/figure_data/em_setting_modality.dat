@@ -1,0 +1,10 @@
+idx label geo das
+0 {Mining} 108 3
+1 {Hydraulic fracturing} 33 12
+2 {Geothermal} 20 16
+3 {Tunnels, caverns} 28 0
+4 {Slopes, landslides} 15 4
+5 {Other oil and gas} 13 0
+6 {CO$_2$ storage} 5 5
+7 {Reservoir impoundment} 2 0
+8 {Not specified} 108 13

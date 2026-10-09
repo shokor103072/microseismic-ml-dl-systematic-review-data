@@ -1,0 +1,71 @@
+study_id,r1_sensing,r1_setting,r1_tasks,r1_model_families,r1_learning_regimes,r1_cross_site_test,r1_realtime_claim
+m322,DAS,GEN,arrival picking,DLU,,0,0
+m233,G,GEN,location,"GEN; CNN; AE",,0,0
+m84,G,GEN,arrival picking,"UNET; CNN",,0,1
+m307,G,GEN,candidate-window classification,CNN,,0,0
+m126,G,GEN,candidate-window classification,CNN,,0,0
+m502,G,GEN,arrival picking,CML,UNSUP,0,0
+m388,G,GEN,candidate-window classification,"CNN; AE; CML","SEMI; UNSUP",0,0
+m33,G,GEN,arrival picking,CML,UNSUP,0,0
+m513,G,GEN,arrival picking,"TRF; CNN",,0,0
+m376,G,GEN,arrival picking,UNET,,0,0
+m628,G,GEN,location,CNN,,0,1
+m749,G,GEN,location,GEN,,0,1
+m898,G,GEN,candidate-window classification,CML,,0,0
+m757,G,GEN,location,CML,,0,0
+m867,G,GEN,arrival picking,"TRF; CNN",,0,0
+m231,G,GEN,arrival picking,CML,UNSUP,0,0
+m672,DAS,GEN,candidate-window classification,DLU,SEMI,0,0
+m98,G,GEN,location,OTH,,0,0
+m53,G,GEN,candidate-window classification,CML,,0,0
+m988,G,MIN,event-type classification,CML,,0,0
+m1007,G,MIN,event-type classification,CML,,0,0
+m250,G,MIN,candidate-window classification,CML,,0,1
+m163,G,MIN,candidate-window classification,CML,,0,0
+m653,G,MIN,candidate-window classification,"TRF; GNN",SEMI,1,1
+m429,G,MIN,"arrival picking; location",DLU,TL,0,0
+m369,G,MIN,candidate-window classification,DLU,SEMI,0,0
+m810,G,MIN,event-type classification,CML,,0,1
+m469,G,MIN,location,"UNET; RNN; CNN",,0,0
+m692,G,MIN,event-type classification,CML,UNSUP,0,0
+m212,G,MIN,event-type classification,CML,,0,0
+m321,G,MIN,arrival picking,CML,,0,0
+m565,G,MIN,arrival picking,DLU,PHYS,1,1
+m181,G,MIN,event-type classification,"CNN; CML",,0,0
+m875,G,MIN,event-type classification,CML,UNSUP,0,0
+m431,G,MIN,"continuous detection; arrival picking; location",CML,,0,0
+m277,G,MIN,candidate-window classification,"RNN; CNN",TL,0,0
+m712,G,MIN,candidate-window classification,CNN,TL,1,0
+m122,G,MIN,event-type classification,CNN,,0,0
+m436,G,HF,location,CNN,,0,1
+m118,G+D,HF,continuous detection,"CNN; CML",,0,0
+m636,DAS,HF,candidate-window classification,CNN,,0,0
+m195,G,HF,"continuous detection; arrival picking","UNET; CNN",,0,1
+m210,G,HF,location,CML,TL,0,1
+m568,G,OG,"continuous detection; arrival picking; location",DLU,,0,1
+m81,G,OG,location,CNN,,0,0
+m113,G,SLP,"continuous detection; event-type classification","CNN; CML",,0,1
+m271,G,SLP,event-type classification,"CNN; CML",SEMI,0,1
+m349,G,SLP,event-type classification,CML,UNSUP,0,0
+m190,G,GT,arrival picking,DLU,TL,0,1
+m455,G,GT,location,DLU,TL,0,0
+m632,DAS,GT,continuous detection,SNN,,0,0
+m582,G,GT,"arrival picking; location",TRF,TL,0,0
+m1138,G,GT,candidate-window classification,UNET,,0,0
+m716,G,TUN,candidate-window classification,DLU,,0,0
+m1182,G,TUN,candidate-window classification,"UNET; CNN",,0,0
+m999,G,TUN,"arrival picking; location",CNN,,0,0
+m773,G,TUN,location,DLU,TL,0,1
+m591,G,TUN,"candidate-window classification; arrival picking; location","DLU; CML",,0,0
+m662,DAS,CCS,continuous detection,CML,SEMI,0,0
+m331,G,RES,"continuous detection; arrival picking; location",DLU,,0,0
+m580,DAS,GT,candidate-window classification,"GNN; CNN; SNN; CML",,0,1
+m674,DAS,GT,candidate-window classification,"CNN; TRF; RNN; GNN",,1,1
+m425,G,HF,"continuous detection; arrival picking","CNN; UNET; TRF",TL,1,0
+m720,G,HF,"continuous detection; arrival picking; location",CML,TL,1,0
+m751,G,HF,continuous detection,CNN,TL,1,1
+m704,G,HF,location,"TRF; GNN; RNN; CNN",,1,1
+m785,DAS,GT,candidate-window classification,"TRF; RNN; CNN",,1,0
+m792,G+D,GEN,arrival picking,DLU,,1,1
+m651,G,MIN,candidate-window classification,"RNN; CNN","TL; SEMI",1,0
+m1301,DAS,MIN,event-type classification,"UNET; CNN","TL; SEMI",1,1

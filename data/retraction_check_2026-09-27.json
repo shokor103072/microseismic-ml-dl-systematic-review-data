@@ -1,0 +1,16 @@
+{
+ "date": "2026-09-27",
+ "checked": 479,
+ "notFoundInCrossref": [
+  "10.48550/arxiv.2606.29339 bib:kurosawa2026 map:m785",
+  "10.48550/arxiv.2205.01833 bib:priem2022",
+  "10.48550/arxiv.2609.07558 bib:munchmeyer2026",
+  "10.48550/arxiv.2410.15765 bib:liu2024b",
+  "10.15121/2479771 bib:jurick2024",
+  "10.48550/arxiv.2605.18375 bib:kurosawa2026b",
+  "10.13272/j.issn.1671-251x.17564 bib:yu2020 map:m1113",
+  "10.48550/arxiv.2507.10850 bib:bagagli2025 map:m1121"
+ ],
+ "failed": [],
+ "hits": []
+}

@@ -1,0 +1,3989 @@
+[
+ {
+  "id": "m11",
+  "setting": "GEN",
+  "year": 2016,
+  "title": "Automatic event detection in low SNR microseismic signals based on multi-scale permutation entropy and a support vector machine",
+  "doi": "10.1007/s10950-016-9632-2",
+  "venue": "Journal of Seismology",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m12",
+  "setting": "GEN",
+  "year": 2016,
+  "title": "Automatic Time Picking for Microseismic Data Based on a Fuzzy C-Means Clustering Algorithm",
+  "doi": "10.1109/lgrs.2016.2616510",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m28",
+  "setting": "MIN",
+  "year": 2017,
+  "title": "A Modern Method to Improve of Detecting and Categorizing Mechanism for Micro Seismic Events Data Using Boost Learning System",
+  "doi": "10.21859/cej-03098",
+  "venue": "Civil Engineering Journal",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m32",
+  "setting": "GEN",
+  "year": 2017,
+  "title": "A robust neural network-based approach for microseismic event detection",
+  "doi": "10.1190/segam2017-17761195.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m33",
+  "setting": "GEN",
+  "year": 2017,
+  "title": "A Time Picking Method Based on Spectral Multimanifold Clustering in Microseismic Data",
+  "doi": "10.1109/lgrs.2017.2705703",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m34",
+  "setting": "GEN",
+  "year": 2017,
+  "title": "An automatic microseismic or acoustic emission arrival identification scheme with deep recurrent neural networks",
+  "doi": "10.1093/gji/ggx487",
+  "venue": "Geophysical Journal International",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m40",
+  "setting": "GEN",
+  "year": 2017,
+  "title": "Improving microseismic event and quarry blast classification using Artificial Neural Networks based on Principal Component Analysis",
+  "doi": "10.1016/j.soildyn.2017.05.008",
+  "venue": "Soil Dynamics and Earthquake Engineering",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m47",
+  "setting": "GEN",
+  "year": 2018,
+  "title": "A Time Picking Method for Microseismic Data Based on LLE and Improved PSO Clustering Algorithm",
+  "doi": "10.1109/lgrs.2018.2854834",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m49",
+  "setting": "HF",
+  "year": 2018,
+  "title": "An Efficient Neural-Network-Based Microseismic Monitoring Platform for Hydraulic Fracture on an Edge Computing Architecture",
+  "doi": "10.3390/s18061828",
+  "venue": "Sensors",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m51",
+  "setting": "GEN",
+  "year": 2018,
+  "title": "Automatic microseismic detection and location via the deep-convolutional neural network",
+  "doi": "10.1190/segam2018-2997548.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m53",
+  "setting": "GEN",
+  "year": 2018,
+  "title": "Automatic recognition and classification of multi-channel microseismic waveform based on DCNN and SVM",
+  "doi": "10.1016/j.cageo.2018.10.008",
+  "venue": "Computers & Geosciences",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m57",
+  "setting": "GEN",
+  "year": 2018,
+  "title": "Data-Driven Signal Recognition- A Machine Learning Application For The Real-Time Microseismic Monitoring",
+  "doi": "10.3997/2214-4609.201803007",
+  "venue": "Proceedings",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m59",
+  "setting": "OG",
+  "year": 2018,
+  "title": "Deep learning applied to induced-seismicity location in the Groningen gas field in the Netherlands",
+  "doi": "10.1190/segam2018-2998357.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m65",
+  "setting": "MIN",
+  "year": 2018,
+  "title": "Micro-seismic event detection and location in underground mines by using Convolutional Neural Networks (CNN) and deep learning",
+  "doi": "10.1016/j.tust.2018.07.006",
+  "venue": "Tunnelling and Underground Space Technology",
+  "das": false,
+  "tasks2": [
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m79",
+  "setting": "MIN",
+  "year": 2019,
+  "title": "Automatic Classification of Microseismic Signals Related to Mining Activities by Supervised Learning",
+  "doi": "10.3997/2214-4609.201900757",
+  "venue": "81st EAGE Conference and Exhibition 2019",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m80",
+  "setting": "GEN",
+  "year": 2019,
+  "title": "Automatic Microseismic Event Detection Using Deep Learning: a Classification is Detection Method",
+  "doi": "10.3997/2214-4609.201900761",
+  "venue": "81st EAGE Conference and Exhibition 2019",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m81",
+  "setting": "OG",
+  "year": 2019,
+  "title": "Bayesian deep learning and uncertainty quantification applied to induced seismicity locations in the Groningen gas field in the Netherlands: What do we need for safe AI?",
+  "doi": "10.1190/segam2019-3216455.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m84",
+  "setting": "GEN",
+  "year": 2019,
+  "title": "Deep neural networks design and analysis for automatic phase pickers from three-component microseismic recordings",
+  "doi": "10.1093/gji/ggz441",
+  "venue": "Geophysical Journal International",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m90",
+  "setting": "HF",
+  "year": 2019,
+  "title": "Intelligent Microseismic Event Detection Using Kirchhoff Migration Style Stacking in Combination with Iterative Clustering based Segmentation",
+  "doi": "10.3997/2214-4609.201901506",
+  "venue": "81st EAGE Conference and Exhibition 2019",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m98",
+  "setting": "GEN",
+  "year": 2019,
+  "title": "Research on Microseismic Source Locations Based on Deep Reinforcement Learning",
+  "doi": "10.1109/access.2019.2906066",
+  "venue": "IEEE Access",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m103",
+  "setting": "SLP",
+  "year": 2019,
+  "title": "Systematic identification of external influences in multi-year microseismic recordings using convolutional neural networks",
+  "doi": "10.5194/esurf-7-171-2019",
+  "venue": "Earth Surface Dynamics",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "ET"
+  ]
+ },
+ {
+  "id": "m109",
+  "setting": "MIN",
+  "year": 2020,
+  "title": "Application of a convolutional neural network for seismic phase picking of mining-induced seismicity",
+  "doi": "10.1093/gji/ggaa449",
+  "venue": "Geophysical Journal International",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m112",
+  "setting": "MIN",
+  "year": 2020,
+  "title": "Automatic Classification of Microseismic Records in Underground Mining: A Deep Learning Approach",
+  "doi": "10.1109/access.2020.2967121",
+  "venue": "IEEE Access",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m113",
+  "setting": "SLP",
+  "year": 2020,
+  "title": "Automatic detection and classification of microseismic events from Super-Sauze landslide using convolutional neural networks",
+  "doi": "",
+  "venue": "Strathprints: The University of Strathclyde institutional repository (University of Strathclyde)",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "ET"
+  ]
+ },
+ {
+  "id": "m114",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "Automatic waveform-based source-location imaging using deep learning extracted microseismic signals",
+  "doi": "10.1190/geo2020-0288.1",
+  "venue": "Geophysics",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m115",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "Classification of Microseismic Events and Blasts Using Deep Belief Network",
+  "doi": "10.1109/ccdc49329.2020.9164062",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m118",
+  "setting": "HF",
+  "year": 2020,
+  "title": "Convolutional neural networks for automated microseismic detection in downhole distributed acoustic sensing data and comparison to a surface geophone array",
+  "doi": "10.1111/1365-2478.13027",
+  "venue": "Geophysical Prospecting",
+  "das": true,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m119",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "Deep Convolutional Neural Network for Microseismic Signal Detection and Classification",
+  "doi": "10.1007/s00024-020-02617-7",
+  "venue": "Pure and Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m120",
+  "setting": "HF",
+  "year": 2020,
+  "title": "Deep Neural Network for Real-Time Location and Moment Tensor Inversion of Borehole Microseismic Events Induced by Hydraulic Fracturing",
+  "doi": "10.2118/201925-ms",
+  "venue": "SPE Russian Petroleum Technology Conference",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m122",
+  "setting": "MIN",
+  "year": 2020,
+  "title": "Discrimination of mining microseismic events and blasts using convolutional neural networks and original waveform",
+  "doi": "10.1007/s11771-020-4530-8",
+  "venue": "Journal of Central South University",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m125",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "Enhanced Microseismic Event Detection Using Deep Neural Networks",
+  "doi": "10.3997/2214-4609.202010892",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m126",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "Explainable time–frequency convolutional neural network for microseismic waveform classification",
+  "doi": "10.1016/j.ins.2020.08.109",
+  "venue": "Information Sciences",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m129",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "First arrival picking of microseismic signals based on nested U-Net and Wasserstein Generative Adversarial Network",
+  "doi": "10.1016/j.petrol.2020.107527",
+  "venue": "Journal of Petroleum Science and Engineering",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m130",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "Identification of Microseismic Events in Rock Engineering by a Convolutional Neural Network Combined with an Attention Mechanism",
+  "doi": "10.1007/s00603-020-02259-0",
+  "venue": "Rock Mechanics and Rock Engineering",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m131",
+  "setting": "MIN",
+  "year": 2020,
+  "title": "Identifying microseismic events in a mining scenario using a convolutional neural network",
+  "doi": "10.1016/j.cageo.2020.104418",
+  "venue": "Computers & Geosciences",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m132",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "Identifying Microseismic Events in Time-Reversed Source Images Using Support Vector Machine",
+  "doi": "10.3997/2214-4609.202010241",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m144",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "Microseismic Hypocenter Location Using an Artificial Neural Network",
+  "doi": "10.3997/2214-4609.202010583",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m145",
+  "setting": "MIN",
+  "year": 2020,
+  "title": "Microseismic records classification using capsule network with limited training samples in underground mining",
+  "doi": "10.1038/s41598-020-70916-z",
+  "venue": "Scientific Reports",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m150",
+  "setting": "MIN",
+  "year": 2020,
+  "title": "Recognition of Microseismic and Blasting Signals in Mines Based on Convolutional Neural Network and Stockwell Transform",
+  "doi": "10.1109/access.2020.2978392",
+  "venue": "IEEE Access",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m155",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "Supervised Machine Learning Application forEvent Detection in Induced Microseismic Data.",
+  "doi": "10.2172/1833166",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m160",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "Traveltime-table compression using artificial neural networks for Kirchhoff-migration processing of microseismic data",
+  "doi": "10.1190/geo2019-0427.1",
+  "venue": "Geophysics",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m162",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "Use of the shearlet energy entropy and of the support vector machine classifier to process weak microseismic and desert seismic signals",
+  "doi": "10.5802/crgeos.3",
+  "venue": "Comptes Rendus Géoscience",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m163",
+  "setting": "MIN",
+  "year": 2020,
+  "title": "Using machine learning approach for microseismic events recognition in underground excavations: Comparison of ten frequently-used models",
+  "doi": "10.1016/j.enggeo.2020.105519",
+  "venue": "Engineering Geology",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m165",
+  "setting": "MIN",
+  "year": 2021,
+  "title": "A hybrid recognition model of microseismic signals for underground mining based on CNN and LSTM networks",
+  "doi": "10.1080/19475705.2021.1968043",
+  "venue": "Geomatics Natural Hazards and Risk",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m167",
+  "setting": "GT",
+  "year": 2021,
+  "title": "A multibranch, multitarget neural network for rapid point-source inversion in a microseismic environment: examples from the Hengill Geothermal Field, Iceland",
+  "doi": "10.1093/gji/ggab511",
+  "venue": "Geophysical Journal International",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m171",
+  "setting": "GEN",
+  "year": 2021,
+  "title": "Accelerating Bayesian microseismic event location with deep learning",
+  "doi": "10.5194/se-12-1683-2021",
+  "venue": "Solid Earth",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m173",
+  "setting": "MIN",
+  "year": 2021,
+  "title": "Accurate identification of microseismic waveforms based on an improved neural network model",
+  "doi": "10.1016/j.jappgeo.2021.104343",
+  "venue": "Journal of Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m174",
+  "setting": "MIN",
+  "year": 2021,
+  "title": "An auto-detection network to provide an automated real-time early warning of rock engineering hazards using microseismic monitoring",
+  "doi": "10.1016/j.ijrmms.2021.104685",
+  "venue": "International Journal of Rock Mechanics and Mining Sciences",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m179",
+  "setting": "GEN",
+  "year": 2021,
+  "title": "Automatic microseismic signals classification with Deep Learning using multi-input Convolutional Neural Networks",
+  "doi": "10.3997/2214-4609.202132010",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m181",
+  "setting": "MIN",
+  "year": 2021,
+  "title": "Classification of clustered microseismic events in a coal mine using machine learning",
+  "doi": "10.1016/j.jrmge.2021.09.002",
+  "venue": "Journal of Rock Mechanics and Geotechnical Engineering",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m184",
+  "setting": "GEN",
+  "year": 2021,
+  "title": "Data-Driven Signal–Noise Classification for Microseismic Data Using Machine Learning",
+  "doi": "10.3390/en14051499",
+  "venue": "Energies",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m189",
+  "setting": "HF",
+  "year": 2021,
+  "title": "Detecting microseismic events on DAS fiber with super-human accuracy",
+  "doi": "10.1190/segam2021-3583060.1",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m190",
+  "setting": "GT",
+  "year": 2021,
+  "title": "Development of microseismic monitoring system using deep learning P- and S-waves picker in geothermal fields",
+  "doi": "10.1190/segj2021-048.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m191",
+  "setting": "HF",
+  "year": 2021,
+  "title": "Direct microseismic event location and characterization from passive seismic data using convolutional neural networks",
+  "doi": "10.1190/geo2020-0636.1",
+  "venue": "Geophysics",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m195",
+  "setting": "HF",
+  "year": 2021,
+  "title": "Generalized neural network trained with a small amount of base samples: Application to event detection and phase picking in downhole microseismic monitoring",
+  "doi": "10.1190/geo2020-0955.1",
+  "venue": "Geophysics",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m196",
+  "setting": "OG",
+  "year": 2021,
+  "title": "GroningenNet: Deep Learning for Low-Magnitude Earthquake Detection on a Multi-Level Sensor Network",
+  "doi": "10.3390/s21238080",
+  "venue": "Sensors",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m200",
+  "setting": "GEN",
+  "year": 2021,
+  "title": "Integrated processing method for microseismic signal based on deep neural network",
+  "doi": "10.1093/gji/ggab099",
+  "venue": "Geophysical Journal International",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m204",
+  "setting": "GEN",
+  "year": 2021,
+  "title": "Localization of microseismic events using the physics-informed neural-network for traveltime computation",
+  "doi": "10.3997/2214-4609.202113191",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m205",
+  "setting": "MIN",
+  "year": 2021,
+  "title": "Machine Learning Based Identification of Microseismic Signals Using Characteristic Parameters",
+  "doi": "10.3390/s21216967",
+  "venue": "Sensors",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m208",
+  "setting": "GT",
+  "year": 2021,
+  "title": "Micro‐seismic Event Detection of Hot Dry Rock based on the Gated Recurrent Unit Model and a Support Vector Machine",
+  "doi": "10.1111/1755-6724.14882",
+  "venue": "Acta Geologica Sinica - English Edition",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m209",
+  "setting": "GEN",
+  "year": 2021,
+  "title": "Microseismic Event Detection and Phase Picking Using Deep Learning Methods.",
+  "doi": "10.2172/2001637",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m210",
+  "setting": "HF",
+  "year": 2021,
+  "title": "Microseismic event location using artificial neural networks",
+  "doi": "10.1190/segam2021-3582729.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m212",
+  "setting": "MIN",
+  "year": 2021,
+  "title": "Microseismic Signal Classification Based on Artificial Neural Networks",
+  "doi": "10.1155/2021/6697948",
+  "venue": "Shock and Vibration",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m214",
+  "setting": "TUN",
+  "year": 2021,
+  "title": "Multi-Classification of Complex Microseismic Waveforms Using Convolutional Neural Network: A Case Study in Tunnel Engineering",
+  "doi": "10.3390/s21206762",
+  "venue": "Sensors",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m217",
+  "setting": "MIN",
+  "year": 2021,
+  "title": "Quality control of microseismic P-phase arrival picks in coal mine based on machine learning",
+  "doi": "10.1016/j.cageo.2021.104862",
+  "venue": "Computers & Geosciences",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m223",
+  "setting": "MIN",
+  "year": 2021,
+  "title": "Recognition of Rock Micro-Fracture Signal Based on Deep Convolution Neural Network Inception Algorithm",
+  "doi": "10.1109/access.2021.3086630",
+  "venue": "IEEE Access",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m224",
+  "setting": "MIN",
+  "year": 2021,
+  "title": "Research on Feature Fusion Method of Mine Microseismic Signal Based on Unsupervised Learning",
+  "doi": "10.1155/2021/9544997",
+  "venue": "Shock and Vibration",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m231",
+  "setting": "GEN",
+  "year": 2021,
+  "title": "Time Series Segmentation Clustering: A New Method for S-Phase Picking in Microseismic Data",
+  "doi": "10.1109/lgrs.2021.3098809",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m233",
+  "setting": "GEN",
+  "year": 2021,
+  "title": "Uncovering the microseismic signals from noisy data for high-fidelity 3D source-location imaging using deep learning",
+  "doi": "10.1190/geo2021-0021.1",
+  "venue": "Geophysics",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m239",
+  "setting": "MIN",
+  "year": 2022,
+  "title": "A Machine Learning-Based Microseismic Event Location and Wave Velocity Prediction",
+  "doi": "10.56952/arma-2022-0166",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m241",
+  "setting": "TUN",
+  "year": 2022,
+  "title": "A novel microseismic classification model based on bimodal neurons in an artificial neural network",
+  "doi": "10.1016/j.tust.2022.104791",
+  "venue": "Tunnelling and Underground Space Technology",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m244",
+  "setting": "MIN",
+  "year": 2022,
+  "title": "An automatic P-wave onset time picking method for mining-induced microseismic data based on long short-term memory deep neural network",
+  "doi": "10.1080/19475705.2022.2057241",
+  "venue": "Geomatics Natural Hazards and Risk",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m247",
+  "setting": "TUN",
+  "year": 2022,
+  "title": "Application of Deep Learning in Microseismic Waveform Classification: A Case Study of The Yebatan Hydropower Station Project",
+  "doi": "10.1109/ichce57331.2022.10042535",
+  "venue": "2022 8th International Conference on Hydraulic and Civil Engineering: Deep Space Intelligent Development and Utilization Forum (ICHCE)",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m249",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Automated Detection of Microseismic Arrival Based on Convolutional Neural Networks",
+  "doi": "10.1155/2022/8000477",
+  "venue": "Shock and Vibration",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m250",
+  "setting": "MIN",
+  "year": 2022,
+  "title": "Automatic Events Recognition in Low SNR Microseismic Signals of Coal Mine Based on Wavelet Scattering Transform and SVM",
+  "doi": "10.3390/en15072326",
+  "venue": "Energies",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m251",
+  "setting": "OG",
+  "year": 2022,
+  "title": "Automatic Microseismic Event Location Using Deep Neural Networks in Anisotropic Media",
+  "doi": "10.3997/2214-4609.202210621",
+  "venue": "83rd EAGE Annual Conference &amp; Exhibition",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m259",
+  "setting": "MIN",
+  "year": 2022,
+  "title": "Coal mine microseismic identification and first-arrival picking based on Conv-LSTM-Unet",
+  "doi": "10.1007/s11600-022-00898-1",
+  "venue": "Acta Geophysica",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m260",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Convolutional neural network microseismic event detection based on variance fractal dimension",
+  "doi": "10.1088/1742-6596/2196/1/012016",
+  "venue": "Journal of Physics Conference Series",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m265",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Deep Learning for Efficient Microseismic Location Using Source Migration‐Based Imaging",
+  "doi": "10.1029/2021jb022649",
+  "venue": "Journal of Geophysical Research Solid Earth",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m271",
+  "setting": "SLP",
+  "year": 2022,
+  "title": "Ensemble and Self-supervised Learning for Improved Classification of Seismic Signals from the Åknes Rockslope",
+  "doi": "10.1007/s11004-022-10037-7",
+  "venue": "Mathematical Geosciences",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m276",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Identifying microseismic events using a dual-channel CNN with wavelet packets decomposition coefficients",
+  "doi": "10.1016/j.cageo.2022.105164",
+  "venue": "Computers & Geosciences",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m277",
+  "setting": "MIN",
+  "year": 2022,
+  "title": "Improved mine microseismic event recognition method combining neural network and transfer learning",
+  "doi": "10.1109/besc57393.2022.9995230",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m278",
+  "setting": "CCS",
+  "year": 2022,
+  "title": "Improving Detection Accuracy of Microseismic Activity During Geologic Carbon Storage Using a Machine Learning Method.",
+  "doi": "10.2172/2005961",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m280",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Intelligent Location of Microseismic Events Based on a Fully Convolutional Neural Network (FCNN)",
+  "doi": "10.1007/s00603-022-02911-x",
+  "venue": "Rock Mechanics and Rock Engineering",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m281",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Intelligent Microseismic Events Recognition in Fiber-Optic Microseismic Monitoring System Compared With Electronic One",
+  "doi": "10.1109/jphot.2022.3148315",
+  "venue": "IEEE photonics journal",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m282",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Localizing Microseismic Events Using Semi-Supervised Generative Adversarial Networks",
+  "doi": "10.1109/tgrs.2022.3225415",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m283",
+  "setting": "CCS",
+  "year": 2022,
+  "title": "Machine learning applications for event detection and phase arrival time estimation of microseismic waveform data at a CO2 injection site.",
+  "doi": "10.2172/2006232",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m287",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Microseismic Source Location Using Deep Reinforcement Learning",
+  "doi": "10.1109/tgrs.2022.3182991",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m291",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Novel Transfer Learning Framework for Microseismic Event Recognition Between Multiple Monitoring Projects",
+  "doi": "10.1007/s00603-022-02790-2",
+  "venue": "Rock Mechanics and Rock Engineering",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m292",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Phase arrival picking for bridging multi-source downhole microseismic data using deep transfer learning",
+  "doi": "10.1093/jge/gxac009",
+  "venue": "Journal of Geophysics and Engineering",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m293",
+  "setting": "HF",
+  "year": 2022,
+  "title": "Real-time hydraulic fracturing monitoring using deep learning clustering of microseismic data",
+  "doi": "10.1190/image2022-3751111.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "ET"
+  ]
+ },
+ {
+  "id": "m300",
+  "setting": "MIN",
+  "year": 2022,
+  "title": "Strong Noise-Tolerance Deep Learning Network for Automatic Microseismic Events Classification",
+  "doi": "10.1109/tgrs.2022.3194351",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m306",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Towards fast machine-learning-assisted Bayesian posterior inference of microseismic event location and source mechanism",
+  "doi": "10.1093/gji/ggac385",
+  "venue": "Geophysical Journal International",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m307",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Using Convolution Neural Network Method to Detect Borehole Microseismic Events",
+  "doi": "10.3997/2214-4609.202210058",
+  "venue": "83rd EAGE Annual Conference &amp; Exhibition",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m317",
+  "setting": "OG",
+  "year": 2023,
+  "title": "Arrival times by Recurrent Neural Network for induced seismic events from a permanent network",
+  "doi": "10.3389/fdata.2023.1174478",
+  "venue": "Frontiers in Big Data",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m318",
+  "setting": "SLP",
+  "year": 2023,
+  "title": "Automated classification of seismic signals recorded on the Åknes rock slope, Western Norway, using a convolutional neural network",
+  "doi": "10.5194/esurf-11-89-2023",
+  "venue": "Earth Surface Dynamics",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m319",
+  "setting": "GT",
+  "year": 2023,
+  "title": "Automatic classification with an autoencoder of seismic signals on a distributed acoustic sensing cable",
+  "doi": "10.1016/j.compgeo.2022.105223",
+  "venue": "Computers and Geotechnics",
+  "das": true,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m320",
+  "setting": "GEN",
+  "year": 2023,
+  "title": "Automatic detection of microseismic waveform based on machine learning",
+  "doi": "10.3997/2214-4609.2023101440",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m321",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Automatic picking method of microseismic first arrival based on support vector machine based on particle swarm optimization",
+  "doi": "10.1117/12.2667714",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m322",
+  "setting": "GEN",
+  "year": 2023,
+  "title": "Automatic Picking of Distributed Fiber Microseismic Events Based on Deep Learning",
+  "doi": "10.3997/2214-4609.202376039",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m324",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "CNN-Transformer for Microseismic Signal Classification",
+  "doi": "10.3390/electronics12112468",
+  "venue": "Electronics",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m330",
+  "setting": "GT",
+  "year": 2023,
+  "title": "Deep learning based microearthquake location prediction at Newberry EGS using physics-informed synthetic dataset",
+  "doi": "10.1190/image2023-3910882.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m331",
+  "setting": "RES",
+  "year": 2023,
+  "title": "Deep Learning-Based Microseismic Detection and Location Reveal the Seismic Characteristics and Causes in the Xiluodu Reservoir, China",
+  "doi": "10.1785/0120230134",
+  "venue": "Bulletin of the Seismological Society of America",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m334",
+  "setting": "SLP",
+  "year": 2023,
+  "title": "Distributed Acoustic Sensing and Machine Learning: Rockfall Detection at Mt. Meager, B.C.",
+  "doi": "10.3997/2214-4609.202320030",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m336",
+  "setting": "SLP",
+  "year": 2023,
+  "title": "Domain Knowledge Informed Multitask Learning for Landslide-Induced Seismic Classification",
+  "doi": "10.1109/lgrs.2023.3279068",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m338",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Enhancing Microseismic Signal Classification in Metal Mines Using Transformer-Based Deep Learning",
+  "doi": "10.3390/su152014959",
+  "venue": "Sustainability",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m339",
+  "setting": "TUN",
+  "year": 2023,
+  "title": "Fine Classification Method for Massive Microseismic Signals Based on Short-Time Fourier Transform and Deep Learning",
+  "doi": "10.3390/rs15020502",
+  "venue": "Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m341",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Identification method for microseismic, acoustic emission and electromagnetic radiation interference signals of rock burst based on deep neural networks",
+  "doi": "10.1016/j.ijrmms.2023.105541",
+  "venue": "International Journal of Rock Mechanics and Mining Sciences",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m344",
+  "setting": "CCS",
+  "year": 2023,
+  "title": "Integrated machine learning models of event detection and source location identification for fault imaging using raw continuous IBDP microseismic data",
+  "doi": "10.2172/2463057",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m347",
+  "setting": "HF",
+  "year": 2023,
+  "title": "Joint denoising and classification network: Application to microseismic event detection in hydraulic fracturing distributed acoustic sensing monitoring",
+  "doi": "10.1190/geo2022-0296.1",
+  "venue": "Geophysics",
+  "das": true,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m349",
+  "setting": "SLP",
+  "year": 2023,
+  "title": "Landslide-Induced Seismic Signal Clustering With Outlier Removal",
+  "doi": "10.1109/lgrs.2023.3327044",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m350",
+  "setting": "GT",
+  "year": 2023,
+  "title": "Machine learning automatic picker for geothermal microseismicity analysis for practical procedure to reveal fine reservoir structures",
+  "doi": "10.1016/j.geothermics.2023.102832",
+  "venue": "Geothermics",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m354",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Machine learning-based microseismic catalog and passive seismic tomography evaluating the effect of grouting in Zhangji coal mine, China",
+  "doi": "10.1007/s11770-023-1056-5",
+  "venue": "Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m358",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Microseismic Detection of Non-natural Earthquakes in Datong Mining Area Based on Deep Learning",
+  "doi": "10.52202/073371-0160",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m359",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Microseismic Event Classification With Time-, Frequency-, and Wavelet-Domain Convolutional Neural Networks",
+  "doi": "10.1109/tgrs.2023.3262412",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "ET"
+  ]
+ },
+ {
+  "id": "m360",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Microseismic event waveform classification using CNN-based transfer learning models",
+  "doi": "10.1016/j.ijmst.2023.09.003",
+  "venue": "International Journal of Mining Science and Technology",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m361",
+  "setting": "GEN",
+  "year": 2023,
+  "title": "Microseismic Events Recognition via Joint Deep Clustering With Residual Shrinkage Dense Network",
+  "doi": "10.1109/tgrs.2023.3314149",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m362",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Microseismic Location in Hardrock Metal Mines by Machine Learning Models Based on Hyperparameter Optimization Using Bayesian Optimizer",
+  "doi": "10.1007/s00603-023-03483-0",
+  "venue": "Rock Mechanics and Rock Engineering",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m369",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Mine-Microseismic-Signal Recognition Based on Meta-learning",
+  "doi": "10.1007/978-981-99-0301-6_34",
+  "venue": "Communications in computer and information science",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m370",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "MSNet: A Seismic Phase Picking Network Applicable to Microseismic Monitoring",
+  "doi": "10.1109/lgrs.2023.3314029",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m371",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Multi-channel microseismic signals classification with convolutional neural networks",
+  "doi": "10.11591/ijai.v13.i1.pp1038-1049",
+  "venue": "IAES International Journal of Artificial Intelligence",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m372",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Parallel Processing Method for Microseismic Signal Based on Deep Neural Network",
+  "doi": "10.3390/rs15051215",
+  "venue": "Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m373",
+  "setting": "TUN",
+  "year": 2023,
+  "title": "Performance and Applicability of Recognizing Microseismic Waveforms Using Neural Networks in Tunnels",
+  "doi": "10.1007/s12205-023-0719-3",
+  "venue": "KSCE Journal of Civil Engineering",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m376",
+  "setting": "GEN",
+  "year": 2023,
+  "title": "PSSegNet: Segmenting the P- and S-Phases in Microseismic Signals through Deep Learning",
+  "doi": "10.3390/math12010130",
+  "venue": "Mathematics",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m378",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Research on Automatic Classification of Coal Mine Microseismic Events Based on Data Enhancement and FCN-LSTM Network",
+  "doi": "10.3390/app132011158",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m380",
+  "setting": "HF",
+  "year": 2023,
+  "title": "RFloc3D: A Machine-Learning Method for 3-D Microseismic Source Location Using P- and S-Wave Arrivals",
+  "doi": "10.1109/tgrs.2023.3236572",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m386",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "The CGAS Deep Learning Algorithm for P-Wave Arrival Time Picking of Mining Microseismic Events",
+  "doi": "10.1109/access.2023.3317084",
+  "venue": "IEEE Access",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m387",
+  "setting": "GEN",
+  "year": 2023,
+  "title": "UACNet: A universal automatic classification network for microseismic signals regardless of waveform size and sampling rate",
+  "doi": "10.1016/j.engappai.2023.107088",
+  "venue": "Engineering Applications of Artificial Intelligence",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m388",
+  "setting": "GEN",
+  "year": 2023,
+  "title": "Unsupervised Clustering of Microseismic Signals Using a Contrastive Learning Model",
+  "doi": "10.1109/tgrs.2023.3240728",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m391",
+  "setting": "GEN",
+  "year": 2023,
+  "title": "Waveform recognition and process interpretation of microseismic monitoring based on an improved LeNet5 convolutional neural network",
+  "doi": "10.1007/s11771-023-5254-3",
+  "venue": "Journal of Central South University",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m392",
+  "setting": "GEN",
+  "year": 2023,
+  "title": "Wavelet Transform-Based Fuzzy Clustering Microseismic First-Arrival Picking Method",
+  "doi": "10.1109/access.2023.3338628",
+  "venue": "IEEE Access",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m395",
+  "setting": "TUN",
+  "year": 2024,
+  "title": "A Dual-Task Approach for Onset Time Picking and the Detection of Microseismic Waveforms Based on Deep Learning",
+  "doi": "10.3390/app142411689",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m396",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "A first arrival picking method of microseismic signals based on semi-supervised learning using FreeMatch and MS-Picking",
+  "doi": "10.1016/j.cageo.2024.105844",
+  "venue": "Computers & Geosciences",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m397",
+  "setting": "SLP",
+  "year": 2024,
+  "title": "A Human-on-The-Loop Approach for Labelling Landslide-Induced Seismic Recordings Via a Multi-Class Deep-Learning Based Classification Model",
+  "doi": "10.2139/ssrn.4743981",
+  "venue": "SSRN Electronic Journal",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m399",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "A novel identification method of microseismic events based on empirical mode decomposition and artificial neural network features",
+  "doi": "10.1016/j.jappgeo.2024.105329",
+  "venue": "Journal of Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m402",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "An adaptive first arrival time picking method for microseismic data based on stepwise fuzzy clustering",
+  "doi": "10.1109/icet61945.2024.10672939",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m404",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "An Efficient Approach to Uncertainty Quantification for Deep Learning Based Microseismic Source Location",
+  "doi": "10.3997/2214-4609.202410956",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m414",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "Automatic location of surface-monitored microseismicity with deep learning",
+  "doi": "10.1016/j.eqrea.2024.100355",
+  "venue": "Earthquake research advances",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m417",
+  "setting": "SLP",
+  "year": 2024,
+  "title": "Automatic Monitoring of Rock‐Slope Failures Using Distributed Acoustic Sensing and Semi‐Supervised Learning",
+  "doi": "10.1029/2024gl110672",
+  "venue": "Geophysical Research Letters",
+  "das": true,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m425",
+  "setting": "HF",
+  "year": 2024,
+  "title": "Deep learning phase pickers: how well can existing models detect hydraulic-fracturing induced microseismicity from a borehole array?",
+  "doi": "10.1093/gji/ggae386",
+  "venue": "Geophysical Journal International",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m427",
+  "setting": "MIN",
+  "year": 2024,
+  "title": "Deep Neural Network for Distinguishing Microseismic Signals and Blasting Vibration Signals Based on Deep Learning of Spectrum Features",
+  "doi": "10.1080/13632469.2024.2364698",
+  "venue": "Journal of Earthquake Engineering",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m428",
+  "setting": "TUN",
+  "year": 2024,
+  "title": "Deep transfer learning for microseismic waveforms recognition across geological conditions in TBM tunnels",
+  "doi": "10.1016/j.ige.2024.11.002",
+  "venue": "Intelligent geoengineering.",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m429",
+  "setting": "MIN",
+  "year": 2024,
+  "title": "Deep transfer learning for P-wave arrival identification and automatic seismic source location in underground mines",
+  "doi": "10.1016/j.ijrmms.2024.105888",
+  "venue": "International Journal of Rock Mechanics and Mining Sciences",
+  "das": false,
+  "tasks2": [
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m431",
+  "setting": "MIN",
+  "year": 2024,
+  "title": "Detection and Monitoring of Mining-Induced Seismicity Based on Machine Learning and Template Matching: A Case Study from Dongchuan Copper Mine, China",
+  "doi": "10.3390/s24227312",
+  "venue": "Sensors",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m432",
+  "setting": "GT",
+  "year": 2024,
+  "title": "Detection of microseismic events in continuous DAS data using convolutional neural networks",
+  "doi": "10.1190/tle43010016.1",
+  "venue": "The Leading Edge",
+  "das": true,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m434",
+  "setting": "MIN",
+  "year": 2024,
+  "title": "Development of a Deep Neural Network Model for the Relocation of Mining-Induced Seismic Event",
+  "doi": "10.3390/app14166911",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m436",
+  "setting": "HF",
+  "year": 2024,
+  "title": "DMLoc: Automatic Microseismic Locating Workflow Based on Deep Learning and Waveform Migration",
+  "doi": "10.1785/0220230391",
+  "venue": "Seismological Research Letters",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m437",
+  "setting": "RES",
+  "year": 2024,
+  "title": "Earthquake migration characteristics and triggering mechanisms in the Baihetan Reservoir Area based on machine-learning microseismic detection",
+  "doi": "10.1093/gji/ggae304",
+  "venue": "Geophysical Journal International",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m439",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "Enhancing fiber-optic DAS microseismic event detection in imbalanced data using embedding space optimization",
+  "doi": "10.1190/image2024-w06-01.1",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m443",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "High precision microseismic phase picking and monitoring based on advanced deep learning",
+  "doi": "10.1190/image2024-4094685.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m444",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "High-Precision Microseismic Source Localization Using a Fusion Network Combining Convolutional Neural Network and Transformer",
+  "doi": "10.1007/s10712-024-09846-8",
+  "venue": "Surveys in Geophysics",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m445",
+  "setting": "TUN",
+  "year": 2024,
+  "title": "Hybrid deep learning-based identification of microseismic events in TBM tunnelling",
+  "doi": "10.1016/j.measurement.2024.115381",
+  "venue": "Measurement",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m450",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "Intelligent Recognition of Valid Microseismic Events Based on Self-supervised Learning",
+  "doi": "10.1016/j.measurement.2024.114760",
+  "venue": "Measurement",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m452",
+  "setting": "MIN",
+  "year": 2024,
+  "title": "LGF SeismoLocator: A Deep Learning Model for Precision Microseismic Event Localization in Coal Mines",
+  "doi": "10.1007/s00603-024-04115-x",
+  "venue": "Rock Mechanics and Rock Engineering",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m455",
+  "setting": "GT",
+  "year": 2024,
+  "title": "Machine Learning‐Assisted Microearthquake Location Workflow for Monitoring the Newberry Enhanced Geothermal System",
+  "doi": "10.1029/2024jh000159",
+  "venue": "Journal of Geophysical Research Machine Learning and Computation",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m457",
+  "setting": "GT",
+  "year": 2024,
+  "title": "Machine-learning based arrival-picking in continuous DAS recordings — Application to the Utah FORGE EGS project",
+  "doi": "10.1190/image2024-4097931.1",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m460",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "Methods for Identifying Effective Microseismic Signals in a Strong-Noise Environment Based on the Variational Mode Decomposition and Modified Support Vector Machine Models",
+  "doi": "10.3390/app14062243",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m463",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "Microseismic Event Recognition and Transfer Learning Based on Convolutional Neural Network and Attention Mechanisms",
+  "doi": "10.1007/s11770-024-1058-y",
+  "venue": "Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m465",
+  "setting": "HF",
+  "year": 2024,
+  "title": "Microseismic Source Imaging Using Physics-Informed Neural Networks With Hard Constraints",
+  "doi": "10.1109/tgrs.2024.3366449",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m468",
+  "setting": "TUN",
+  "year": 2024,
+  "title": "Microseismic Source Localization Method Based on Neural Network Algorithm and Dynamic Reduction of Solution Interval",
+  "doi": "10.1109/lgrs.2024.3398043",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m469",
+  "setting": "MIN",
+  "year": 2024,
+  "title": "Microseismic source location using deep learning: A coal mine case study in China",
+  "doi": "10.1016/j.jrmge.2024.02.014",
+  "venue": "Journal of Rock Mechanics and Geotechnical Engineering",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m478",
+  "setting": "MIN",
+  "year": 2024,
+  "title": "Promoting Sustainable Development of Coal Mines: CNN Model Optimization for Identification of Microseismic Signals Induced by Hydraulic Fracturing in Coal Seams",
+  "doi": "10.3390/su16177592",
+  "venue": "Sustainability",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m481",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "Recognition and classification of microseismic event waveforms based on histogram of oriented gradients and shallow machine learning approach",
+  "doi": "10.1016/j.jappgeo.2024.105551",
+  "venue": "Journal of Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m486",
+  "setting": "TUN",
+  "year": 2024,
+  "title": "Self-Supervised Convolutional Clustering for Picking the First Break of Microseismic Recording",
+  "doi": "10.1109/lgrs.2024.3350731",
+  "venue": "IEEE Geoscience and Remote Sensing Letters",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m487",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "Semi-Picking: A semi-supervised arrival time picking for microseismic monitoring based on the TransUGA network combined with SimMatch",
+  "doi": "10.1093/gji/ggae308",
+  "venue": "Geophysical Journal International",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m489",
+  "setting": "GT",
+  "year": 2024,
+  "title": "Shallow Bore-hole Microseismic Data Processing Based on Machine Learning",
+  "doi": "10.3997/2214-4609.202478007",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m490",
+  "setting": "SLP",
+  "year": 2024,
+  "title": "Siamese Unsupervised Clustering For Removing Uncertainty In Microseismic Signal Labelling",
+  "doi": "10.1109/igarss53475.2024.10641807",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m494",
+  "setting": "CCS",
+  "year": 2024,
+  "title": "Supervised Deep Learning for Detecting and Locating Passive Seismic Events Recorded with DAS: A Case Study",
+  "doi": "10.3390/s24216978",
+  "venue": "Sensors",
+  "das": true,
+  "tasks2": [
+   "CW",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m501",
+  "setting": "OG",
+  "year": 2024,
+  "title": "Use of Machine Learning in Microseismic Monitoring for Thermal Operations in Cold Lake, AB, Canada",
+  "doi": "10.2118/220946-ms",
+  "venue": "SPE Annual Technical Conference and Exhibition",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "ET"
+  ]
+ },
+ {
+  "id": "m502",
+  "setting": "GEN",
+  "year": 2024,
+  "title": "Using Fuzzy C-Means Clustering to Determine First Arrival of Microseismic Recordings",
+  "doi": "10.3390/s24051682",
+  "venue": "Sensors",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m512",
+  "setting": "GEN",
+  "year": 2025,
+  "title": "A Microseismic Phase Picking and Polarity Determination Model Based on the Earthquake Transformer",
+  "doi": "10.3390/app15073424",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m513",
+  "setting": "GEN",
+  "year": 2025,
+  "title": "A multi-scale CNN-Transformer hybrid network for microseismic signal arrival picking: Model analysis and engineering application",
+  "doi": "10.1016/j.enggeo.2025.108109",
+  "venue": "Engineering Geology",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m522",
+  "setting": "SLP",
+  "year": 2025,
+  "title": "An automated machine learning approach for near-real-time rockfall classification via distributed acoustic sensing along linear infrastructure",
+  "doi": "10.1016/j.enggeo.2025.108428",
+  "venue": "Engineering Geology",
+  "das": true,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m523",
+  "setting": "TUN",
+  "year": 2025,
+  "title": "An efficiently designed CNN-Transformer fusion network for automatic and real-time microseismic signal classification",
+  "doi": "10.1016/j.tust.2025.106534",
+  "venue": "Tunnelling and Underground Space Technology",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m526",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "Application of Integrated U-Net Network-Based Microseismic Monitoring and Precision Localization Technology in Cross-Boundary Coal Mining",
+  "doi": "10.1109/dipca65051.2025.11042513",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m530",
+  "setting": "GEN",
+  "year": 2025,
+  "title": "Assessing Neural Operators for Microseismic Source Localization",
+  "doi": "10.3997/2214-4609.202521215",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m531",
+  "setting": "GEN",
+  "year": 2025,
+  "title": "Automated P-wave arrival picking in microseismic monitoring: Integrating multi-feature clustering and enhanced AIC-STA/LTA",
+  "doi": "10.1016/j.measurement.2025.118143",
+  "venue": "Measurement",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m534",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "CNN-KA: A Hybrid P-Phase Picking Method for Microseismic Source Location in Deep Mine With Complex Geological Conditions",
+  "doi": "10.1109/tgrs.2025.3528433",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m538",
+  "setting": "GEN",
+  "year": 2025,
+  "title": "Data Preparation for A Supervised Deep Learning Approach to Detect Microseismic Events using Distributed Acoustic Sensing",
+  "doi": "10.3997/2214-4609.202576012",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m546",
+  "setting": "HF",
+  "year": 2025,
+  "title": "Deep Learning-Enhanced Catalogue of Induced Microseismicity at Preston New Road-1z, UK: New Insights into Spatio-Temporal Patterns and Structural Control",
+  "doi": "10.22541/essoar.176636983.33798285/v1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m550",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "Detection of mining-induced microseismicity through a deep convolutional neural network",
+  "doi": "10.1016/j.jappgeo.2025.106069",
+  "venue": "Journal of Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m554",
+  "setting": "GEN",
+  "year": 2025,
+  "title": "Employing Deep Learning Technology to Perform Long-Term Microseismic Monitoring",
+  "doi": "10.3997/2214-4609.202577102",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m556",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "Event recognition technology and short-term rockburst early warning model based on microseismic monitoring and ensemble learning",
+  "doi": "10.1038/s41598-025-03657-6",
+  "venue": "Scientific Reports",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m565",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "High-Precision Coal Mine Microseismic P-Wave Arrival Picking via Physics-Constrained Deep Learning",
+  "doi": "10.3390/s25237103",
+  "venue": "Sensors",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m566",
+  "setting": "SLP",
+  "year": 2025,
+  "title": "Hybrid machine teaching with human oversight for classification of seismograms",
+  "doi": "10.1016/j.asoc.2025.114434",
+  "venue": "Applied Soft Computing",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m568",
+  "setting": "OG",
+  "year": 2025,
+  "title": "Improving microearthquake detection in the Val d’Agri region (Southern Italy) with deep learning",
+  "doi": "",
+  "venue": "Archivio istituzionale della ricerca (Alma Mater Studiorum Università di Bologna)",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m571",
+  "setting": "TUN",
+  "year": 2025,
+  "title": "Intelligent multi-channel classification of microseismic events upon TBM excavation",
+  "doi": "10.1016/j.jrmge.2025.09.002",
+  "venue": "Journal of Rock Mechanics and Geotechnical Engineering",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m572",
+  "setting": "TUN",
+  "year": 2025,
+  "title": "Intelligent phase picking of microseismic signals based on ResUNet in underground engineering",
+  "doi": "10.1007/s11771-025-6077-1",
+  "venue": "Journal of Central South University",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m576",
+  "setting": "TUN",
+  "year": 2025,
+  "title": "Lightweight and Robust Cross-Domain Microseismic Signal Classification Framework with Bi-Classifier Adversarial Learning",
+  "doi": "10.1016/j.eng.2025.10.023",
+  "venue": "Engineering",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m578",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "Low-SNR Microseismic Source Localization via Multiscale Convolutional Network With Coordinate Attention",
+  "doi": "10.1109/tim.2025.3645922",
+  "venue": "IEEE Transactions on Instrumentation and Measurement",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m580",
+  "setting": "GT",
+  "year": 2025,
+  "title": "Machine Learning for Micro-seismic Event Detection: A Comparative Study of Spiking, Graph and Convolution Neural Network on Distributed Acoustic Sensing Data",
+  "doi": "10.1145/3743158.3783853",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m582",
+  "setting": "GT",
+  "year": 2025,
+  "title": "Machine Learning Utilization for Waveform Denoising and Hypocenter Determination of Microseismic Event at Volcanic Geothermal Field",
+  "doi": "10.1088/1755-1315/1458/1/012039",
+  "venue": "IOP Conference Series Earth and Environmental Science",
+  "das": false,
+  "tasks2": [
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m584",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "Micro-seismic resolution in mining engineering by combining denoising processing and improved CNN algorithm",
+  "doi": "10.1177/25726838251342677",
+  "venue": "Applied Earth Science Transactions of the Institutions of Mining and Metallurgy",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m587",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "Microseismic identification and effectiveness assessment of hydraulic-fracturing–induced roof cutting using an STFT–CNN framework",
+  "doi": "10.1016/j.jappgeo.2025.106078",
+  "venue": "Journal of Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m589",
+  "setting": "CCS",
+  "year": 2025,
+  "title": "Microseismic Monitoring with Borehole DAS During CCUS Operations Onshore Japan",
+  "doi": "10.3997/2214-4609.2025641001",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m591",
+  "setting": "TUN",
+  "year": 2025,
+  "title": "Microseismic signal processing and rockburst disaster identification: A multi-task deep learning and machine learning approach",
+  "doi": "10.1016/j.jrmge.2025.07.017",
+  "venue": "Journal of Rock Mechanics and Geotechnical Engineering",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m592",
+  "setting": "GEN",
+  "year": 2025,
+  "title": "Microseismic Source Inversion Based on Neural Operator with Physics Constrain",
+  "doi": "10.3997/2214-4609.202510326",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m593",
+  "setting": "GT",
+  "year": 2025,
+  "title": "Microseismic Source Localization Using Fourier Neural Operator With Application to Field Data From Utah FORGE",
+  "doi": "10.1109/tgrs.2025.3533635",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m594",
+  "setting": "GEN",
+  "year": 2025,
+  "title": "Microseismic Source Localization via Fusion Networks with Integrated Velocity Model Constraints",
+  "doi": "10.1007/s00603-025-05190-4",
+  "venue": "Rock Mechanics and Rock Engineering",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m601",
+  "setting": "SLP",
+  "year": 2025,
+  "title": "Passive Seismic Monitoring of Unstable Rock Masses: Can Machine Learning Support Microseismicity Analyses?",
+  "doi": "10.3997/2214-4609.202520167",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "ET"
+  ]
+ },
+ {
+  "id": "m604",
+  "setting": "GT",
+  "year": 2025,
+  "title": "Picking Induced Seismicity with Deep Learning (piSDL)",
+  "doi": "10.26443/seismica.v4i2.1579",
+  "venue": "Seismica",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m616",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "Research on computational propagation and identification of mine microseismic signals based on deep learning",
+  "doi": "10.1371/journal.pone.0334641",
+  "venue": "PLoS ONE",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m628",
+  "setting": "GEN",
+  "year": 2025,
+  "title": "Simultaneous Localization and Moment Tensor Inversion of Microseismic Events Using Convolutional Neural Network",
+  "doi": "10.3997/2214-4609.202510674",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m632",
+  "setting": "GT",
+  "year": 2025,
+  "title": "Spiking Neural Networks with Energy to Spike Encoding for Label-Free Detection in Distributed Acoustic Sensing",
+  "doi": "10.1109/gcce65946.2025.11275067",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m633",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "Study on automatic first arrival picking of mine microseismic waveforms based on the improved U-Net",
+  "doi": "10.1016/j.tust.2025.106995",
+  "venue": "Tunnelling and Underground Space Technology",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m634",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "Swin Transformer Based Recognition for Hydraulic Fracturing Microseismic Signals from Coal Seam Roof with Ultra Large Mining Height",
+  "doi": "10.3390/s25216750",
+  "venue": "Sensors",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m635",
+  "setting": "TUN",
+  "year": 2025,
+  "title": "TFA-ProtoNet: Few-Shot Microseismic Signal Classification Network",
+  "doi": "10.1109/igarss55030.2025.11242652",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m636",
+  "setting": "HF",
+  "year": 2025,
+  "title": "The Impact of Preprocessing on DAS Micro-seismic Event Detection",
+  "doi": "10.3997/2214-4609.2025641032",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m639",
+  "setting": "HF",
+  "year": 2025,
+  "title": "Uncertainty-aware neural networks with manual quality control for hydraulic fracturing downhole microseismic monitoring: From automated phase detection to robust source location",
+  "doi": "10.1016/j.petsci.2025.07.017",
+  "venue": "Petroleum Science",
+  "das": false,
+  "tasks2": [
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m643",
+  "setting": "GEN",
+  "year": 2025,
+  "title": "Wavelet-Guided Hybrid Attention Neural Network for Identification of Microseismic Event",
+  "doi": "10.1109/access.2025.3610110",
+  "venue": "IEEE Access",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m645",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "3D microseismic events localization using a 2D conditional diffusion model",
+  "doi": "10.1190/image2025-4307437.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m651",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "A novel transfer learning-enhanced BiLSTM-DCNN architecture for mine microseismic signal identification with small data set",
+  "doi": "10.1007/s40948-026-01168-w",
+  "venue": "Geomechanics and Geophysics for Geo-Energy and Geo-Resources",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m653",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "A self-supervised GNN–Transformer framework for weak microseismic signal identification",
+  "doi": "10.1038/s41598-026-52871-3",
+  "venue": "Scientific Reports",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m655",
+  "setting": "HF",
+  "year": 2026,
+  "title": "A Semi-Supervised Approach to Microseismic Source Localization with Masked Pre-Training and Residual Convolutional Autoencoder",
+  "doi": "10.3390/app16020683",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m657",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "An attention module integrated hybrid model for recognizing microseismic signals induced by high-pressure grouting in deep rock layers",
+  "doi": "10.1016/j.ijmst.2025.12.008",
+  "venue": "International Journal of Mining Science and Technology",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m662",
+  "setting": "CCS",
+  "year": 2026,
+  "title": "Argus: A Sparse-Label Machine-Learning Workflow for Passive DAS Seismic Catalogue Expansion in CO2 Storage Monitoring—Application to the CO2CRC Otway Stage 4 Dataset",
+  "doi": "10.3390/s26165084",
+  "venue": "Sensors",
+  "das": true,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m665",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Attn-Loc: Deep Learning for Microseismic Event Location via Transformer Encoder",
+  "doi": "10.1785/0220250416",
+  "venue": "Seismological Research Letters",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m666",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Automated Realistic Labelled DAS Data Synthesis using CycleGANs and their Application to Phase Arrival Picking",
+  "doi": "10.3997/1365-2397.fb2026002",
+  "venue": "First Break",
+  "das": true,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m667",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Automatic downhole microseismic event location with an attention‑enhanced fully convolutional neural network",
+  "doi": "10.4401/ag-9513",
+  "venue": "Annals of Geophysics",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m668",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Automatic P-wave arrival picking for microseismic signals of mines using a hybrid neural network with constrained attention and CNN-BiLSTM",
+  "doi": "10.1016/j.jrmge.2026.05.018",
+  "venue": "Journal of Rock Mechanics and Geotechnical Engineering",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m672",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "DAS microseismic detection with insufficient training samples via deep learning based on robust feature-level consistency regularization",
+  "doi": "10.1016/j.jappgeo.2026.106416",
+  "venue": "Journal of Applied Geophysics",
+  "das": true,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m674",
+  "setting": "GT",
+  "year": 2026,
+  "title": "Deep learning for distributed acoustic sensing-based microseismic candidate-window classification in enhanced geothermal systems: A comparative study of twelve architectures",
+  "doi": "10.1016/j.engappai.2026.115622",
+  "venue": "Engineering Applications of Artificial Intelligence",
+  "das": true,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m676",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Deep learning-based microseismic source location with joint constraints of source imaging and traveltime residuals",
+  "doi": "10.1093/gji/ggag171",
+  "venue": "Geophysical Journal International",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m685",
+  "setting": "TUN",
+  "year": 2026,
+  "title": "Dual-event arrival-time picking for downhole microseismic monitoring using a fully convolutional network",
+  "doi": "10.1007/s11600-026-01898-1",
+  "venue": "Acta Geophysica",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m688",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Enhancing seismic event detection and DAS data management using autoencoders",
+  "doi": "10.1190/image2025-4316681.1",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "CD",
+   "ET"
+  ]
+ },
+ {
+  "id": "m690",
+  "setting": "GT",
+  "year": 2026,
+  "title": "Exploring wavefield-based location imaging in heterogeneous media: A borehole DAS example",
+  "doi": "10.1190/tle-2025-1020",
+  "venue": "The Leading Edge",
+  "das": true,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m691",
+  "setting": "SLP",
+  "year": 2026,
+  "title": "Fast and effective classification of landslide microseismicity: a machine learning perspective",
+  "doi": "10.1016/j.enggeo.2026.108698",
+  "venue": "Engineering Geology",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m692",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Fast Automatic Segmentation of Microseismic and Blasting Events without Labeled Data Using Sparse Graph Spectral Clustering",
+  "doi": "10.1061/ajrua6.rueng-1732",
+  "venue": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part A Civil Engineering",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m699",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Identification and Classification Prediction of Microseismic Signals from Coal–Rock Fracture in Deep Coal Mines",
+  "doi": "10.1007/s00603-025-05203-2",
+  "venue": "Rock Mechanics and Rock Engineering",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m700",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Identification of Microseismic Signals in Coal Mine Rockbursts Based on Hybrid Feature Selection and a Transformer",
+  "doi": "10.3390/app16031241",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m702",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Increasing the noise immunity of microseismic events detection in DAS data based on a hybrid approach of MLE and the U-Net model",
+  "doi": "10.30898/1684-1719.2026.7.8",
+  "venue": "Journal of Radio Electronics",
+  "das": true,
+  "tasks2": [
+   "CW",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m704",
+  "setting": "HF",
+  "year": 2026,
+  "title": "Integrating surface and borehole sensing for accurate microseismic localization: A velocity-model-free deep learning approach",
+  "doi": "10.1016/j.eqs.2026.05.003",
+  "venue": "地震学报：英文版",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m705",
+  "setting": "SLP",
+  "year": 2026,
+  "title": "Intelligent identification model for microseismic signals during rock slope excavation: A case study in Guiyang, Southwest China",
+  "doi": "10.1016/j.jrmge.2026.03.022",
+  "venue": "Journal of Rock Mechanics and Geotechnical Engineering",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m712",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Laboratory-AE-driven wavelet-enhanced CNN for in-situ microseismic recognition",
+  "doi": "10.1016/j.ijrmms.2026.106647",
+  "venue": "International Journal of Rock Mechanics and Mining Sciences",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m714",
+  "setting": "HF",
+  "year": 2026,
+  "title": "Leveraging phase neural operator for microseismic phase arrival picking",
+  "doi": "10.1190/image2025-4312391.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m716",
+  "setting": "TUN",
+  "year": 2026,
+  "title": "Low-energy microseismic event identification during TBM tunnelling at Beishan URL with a hybrid signal-processing and deep-learning framework",
+  "doi": "10.1016/j.ijrmms.2026.106706",
+  "venue": "International Journal of Rock Mechanics and Mining Sciences",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m720",
+  "setting": "HF",
+  "year": 2026,
+  "title": "Machine Learning–Based Automatic Microseismic Event Detection During the 17 August 2015 Mw 4.6 Induced Earthquake Sequence in Northern Montney, British Columbia, Canada",
+  "doi": "10.1785/0120250263",
+  "venue": "Bulletin of the Seismological Society of America",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m727",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Microseismic localization method based on adaptive residual neural network with layered medium model",
+  "doi": "10.1016/j.jappgeo.2026.106337",
+  "venue": "Journal of Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m728",
+  "setting": "GT",
+  "year": 2026,
+  "title": "Microseismic monitoring with the quake neural operator",
+  "doi": "10.1038/s41467-026-73965-6",
+  "venue": "Nature Communications",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m730",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Microseismic source localization and application based on the attention-based deep feedforward neural network model",
+  "doi": "10.1016/j.engappai.2026.114982",
+  "venue": "Engineering Applications of Artificial Intelligence",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m732",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Microseismic source location method based on graph neural networks",
+  "doi": "10.36922/jse026150065",
+  "venue": "Journal of seismic exploration",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m735",
+  "setting": "TUN",
+  "year": 2026,
+  "title": "MSNet: A Cascade Multitask Learning Framework With Hierarchical Dependence for Microseismic Signal Processing",
+  "doi": "10.1109/tii.2026.3684159",
+  "venue": "IEEE Transactions on Industrial Informatics",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m736",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Multi-sensor microseismic event classification with SNR-based sensor selection and MPA-SincNet model",
+  "doi": "10.1016/j.measurement.2026.120934",
+  "venue": "Measurement",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m749",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Real-Time Microseismic Event Location With Latent Diffusion Models",
+  "doi": "10.1109/tgrs.2026.3718892",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m750",
+  "setting": "TUN",
+  "year": 2026,
+  "title": "Real-time microseismic source localization in deep tunnel using physics-informed neural networks",
+  "doi": "10.1016/j.jrmge.2026.07.013",
+  "venue": "Journal of Rock Mechanics and Geotechnical Engineering",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m751",
+  "setting": "HF",
+  "year": 2026,
+  "title": "Real-time multistation microseismic event detection via transfer learning of computer vision deep learning model",
+  "doi": "10.1093/gji/ggag354",
+  "venue": "Geophysical Journal International",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m752",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Recognition and classification of microseismic signals based on Bayesian-optimized CNN-LSTM neural network",
+  "doi": "10.1007/s11771-026-6284-4",
+  "venue": "Journal of Central South University",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m753",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Recognition of microseismic and blasting signals using dynamic weighted logistic regression algorithm",
+  "doi": "10.1088/1361-6501/ae6470",
+  "venue": "Measurement Science and Technology",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m755",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Research on Intelligent Identification Technology of Mine Microseismic Signals Based on Pattern Recognition and Machine Learning",
+  "doi": "10.3390/app16115197",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m757",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Research on microseismic source localization method combining supervised machine learning and 3-dimensional ray tracing method",
+  "doi": "10.1007/s12517-026-12533-0",
+  "venue": "Arabian Journal of Geosciences",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m758",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Research on Multi-Class and Weak Signal Recognition of Microseismic Events Based on an Optimized U-Net Model",
+  "doi": "10.3390/app16136417",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m759",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Research on recognition of rockburst microseismic signal based on deep convolution neural network attention mechanism algorithm",
+  "doi": "10.1007/s11600-026-01897-2",
+  "venue": "Acta Geophysica",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m760",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Research on the Lightweight DAMS-Net and Transfer Learning Methods for Microseismic P-Wave Arrival Time Picking",
+  "doi": "10.1007/s00603-026-05569-x",
+  "venue": "Rock Mechanics and Rock Engineering",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m767",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Seismic Event Classification With a Lightweight Fourier Neural Operator Model",
+  "doi": "10.1111/1365-2478.70176",
+  "venue": "Geophysical Prospecting",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m770",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Seismic phase picking of coal mine microseismic data based on lightweight CNN",
+  "doi": "10.3389/frsip.2026.1884114",
+  "venue": "Frontiers in Signal Processing",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m773",
+  "setting": "TUN",
+  "year": 2026,
+  "title": "SFAN: Spatial-Feature Attention Network for Locating Microseismic Events in Deep Tunnels",
+  "doi": "10.2139/ssrn.7099610",
+  "venue": "SSRN Electronic Journal",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m774",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Single- and multi-channel microseismic signal classification using dynamic-kernel attention-enhanced CNN-CapsNet",
+  "doi": "10.1016/j.ijrmms.2026.106468",
+  "venue": "International Journal of Rock Mechanics and Mining Sciences",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m781",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Three-Layer Physics-Constrained Riemannian Manifold Deep Network for Microseismic Event Localization in Coal Mines",
+  "doi": "10.1109/tgrs.2026.3705759",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m782",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "TL-BiRNN-Pick: An End-to-End Automated Microseismic Monitoring Framework for Underground Mines via Transfer Learning",
+  "doi": "10.1785/0220260072",
+  "venue": "Seismological Research Letters",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m785",
+  "setting": "GT",
+  "year": 2026,
+  "title": "Two kinds of robustness are not the same: disentangling fault tolerance and low-SNR robustness in multi-domain event detection on real data",
+  "doi": "10.48550/arxiv.2606.29339",
+  "venue": "arXiv (Cornell University)",
+  "das": true,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m786",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Two-Stage Microseismic P-Wave Arrival Picking via STA/LTA-Guided Lightweight U-Net",
+  "doi": "10.3390/s26051693",
+  "venue": "Sensors",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m787",
+  "setting": "GT",
+  "year": 2026,
+  "title": "U‐PINO: A U‐Shaped Physics‐Informed Neural Operator for DAS Microseismic Source Localization With Application to FORGE DAS Data",
+  "doi": "10.1111/1365-2478.70190",
+  "venue": "Geophysical Prospecting",
+  "das": true,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m791",
+  "setting": "CCS",
+  "year": 2026,
+  "title": "VSNet: Deep-learning inversion of velocity structures and source locations with passive seismic data",
+  "doi": "10.1190/image2025-4316895.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m792",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "When does array moveout help borehole phase picking? A leave-one-site-out, confound-free benchmark of array versus per-trace deep learning",
+  "doi": "10.31223/x5121s",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m798",
+  "setting": "MIN",
+  "year": 2015,
+  "title": "Discrimination of Mine Seismic Events and Blasts Using the Fisher Classifier, Naive Bayesian Classifier and Logistic Regression",
+  "doi": "10.1007/s00603-015-0733-y",
+  "venue": "Rock Mechanics and Rock Engineering",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m800",
+  "setting": "HF",
+  "year": 2019,
+  "title": "Semiautomatic first-arrival picking of microseismic events by using the pixel-wise convolutional image segmentation method",
+  "doi": "10.1190/geo2018-0389.1",
+  "venue": "Geophysics",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m802",
+  "setting": "TUN",
+  "year": 2021,
+  "title": "Automatic recognition and classification of microseismic waveforms based on computer vision",
+  "doi": "10.1016/j.tust.2021.104327",
+  "venue": "Tunnelling and Underground Space Technology",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m804",
+  "setting": "OG",
+  "year": 2020,
+  "title": "Injection‐Induced Earthquakes on Complex Fault Zones of the Raton Basin Illuminated by Machine‐Learning Phase Picker and Dense Nodal Array",
+  "doi": "10.1029/2020gl088168",
+  "venue": "Geophysical Research Letters",
+  "das": false,
+  "tasks2": [
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m805",
+  "setting": "TUN",
+  "year": 2019,
+  "title": "An automatic recognition method of microseismic signals based on EEMD-SVD and ELM",
+  "doi": "10.1016/j.cageo.2019.104318",
+  "venue": "Computers & Geosciences",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m808",
+  "setting": "GEN",
+  "year": 2021,
+  "title": "Arrival-time picking of microseismic events based on MSNet",
+  "doi": "10.1190/geo2020-0469.1",
+  "venue": "Geophysics",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m809",
+  "setting": "TUN",
+  "year": 2020,
+  "title": "An automatic classification method for microseismic events and blasts during rock excavation of underground caverns",
+  "doi": "10.1016/j.tust.2020.103425",
+  "venue": "Tunnelling and Underground Space Technology",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m810",
+  "setting": "MIN",
+  "year": 2021,
+  "title": "A novel method for automatic identification of rock fracture signals in microseismic monitoring",
+  "doi": "10.1016/j.measurement.2021.109129",
+  "venue": "Measurement",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m819",
+  "setting": "GEN",
+  "year": 2018,
+  "title": "Automatic classification of multi-channel microseismic waveform based on DCNN-SPP",
+  "doi": "10.1016/j.jappgeo.2018.09.022",
+  "venue": "Journal of Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m825",
+  "setting": "MIN",
+  "year": 2018,
+  "title": "Identification of blasting vibration and coal-rock fracturing microseismic signals",
+  "doi": "10.1007/s11770-018-0682-9",
+  "venue": "Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m834",
+  "setting": "GT",
+  "year": 2019,
+  "title": "A Consistent High‐Resolution Catalog of Induced Seismicity in Basel Based on Matched Filter Detection and Tailored Post‐Processing",
+  "doi": "10.1029/2019jb017468",
+  "venue": "Journal of Geophysical Research Solid Earth",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m845",
+  "setting": "GEN",
+  "year": 2015,
+  "title": "Neuro-evolutionary event detection technique for downhole microseismic surveys",
+  "doi": "10.1016/j.cageo.2015.09.024",
+  "venue": "Computers & Geosciences",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m849",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Automatic microseismic signal classification for mining safety monitoring using the WaveNet classifier",
+  "doi": "10.1111/1365-2478.13398",
+  "venue": "Geophysical Prospecting",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m867",
+  "setting": "GEN",
+  "year": 2025,
+  "title": "TwoStream-EQT: A microseismic phase picking model combining time and frequency domain inputs",
+  "doi": "10.1016/j.cageo.2025.105991",
+  "venue": "Computers & Geosciences",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m875",
+  "setting": "MIN",
+  "year": 2020,
+  "title": "An Automatic Recognition Method of Microseismic Signals Based on S Transformation and Improved Gaussian Mixture Model",
+  "doi": "10.1155/2020/8825990",
+  "venue": "Advances in Civil Engineering",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m884",
+  "setting": "MIN",
+  "year": 2022,
+  "title": "Mine Microseismic Time Series Data Integrated Classification Based on Improved Wavelet Decomposition and ELM",
+  "doi": "10.1007/s12559-022-09997-z",
+  "venue": "Cognitive Computation",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m898",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "AI-powered automatic detection of dynamic triggering of earthquake based on microseismic monitoring",
+  "doi": "10.1016/j.soildyn.2022.107723",
+  "venue": "Soil Dynamics and Earthquake Engineering",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m909",
+  "setting": "MIN",
+  "year": 2022,
+  "title": "Mine-Microseismic-Signal Recognition Based on LMD–PNN Method",
+  "doi": "10.3390/app12115509",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m923",
+  "setting": "SLP",
+  "year": 2020,
+  "title": "Graph-Based Micro-Seismic Signal Classification with an Optimised Feature Space",
+  "doi": "10.1109/igarss39084.2020.9323375",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m952",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "An FCM-based microseismic phase arrival picking method and application",
+  "doi": "10.1016/j.aiig.2026.100188",
+  "venue": "Artificial Intelligence in Geosciences",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m964",
+  "setting": "TUN",
+  "year": 2025,
+  "title": "Adaptive Classification Model Based on Dynamic Variations in Microseismic Signal Characteristics",
+  "doi": "10.1007/s00603-025-05006-5",
+  "venue": "Rock Mechanics and Rock Engineering",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m966",
+  "setting": "GEN",
+  "year": 2019,
+  "title": "A fuzzy c-means assisted AIC workflow for arrival picking on downhole microseismic data",
+  "doi": "10.1190/segam2019-3215089.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m968",
+  "setting": "GT",
+  "year": 2023,
+  "title": "Automated Microseismic Event Detection for Downhole Distributed Acoustic Sensing Data Processing",
+  "doi": "10.56952/arma-2023-0797",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m970",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Automatic Classification of Microseismic Events With Similar Features and Noise Interference Using RSREL-Stacking",
+  "doi": "10.1109/tgrs.2023.3324506",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m975",
+  "setting": "MIN",
+  "year": 2020,
+  "title": "Identification of Microseismic Signals Based on Multiscale Singular Spectrum Entropy",
+  "doi": "10.1155/2020/6717128",
+  "venue": "Shock and Vibration",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m988",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Automatic Identification System for Rock Microseismic Signals Based on Signal Eigenvalues",
+  "doi": "10.3390/app13042619",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m995",
+  "setting": "MIN",
+  "year": 2020,
+  "title": "Feature Extraction and Classification Method of Mine Microseismic Signals Based on CEEMDAN_SE",
+  "doi": "10.1109/icet49382.2020.9119585",
+  "venue": "2020 IEEE 3rd International Conference on Electronics Technology (ICET)",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m999",
+  "setting": "TUN",
+  "year": 2025,
+  "title": "Location method of microseismic source and its engineering application: anisotropic velocity model and local optimization",
+  "doi": "10.1080/10589759.2025.2527223",
+  "venue": "Nondestructive Testing And Evaluation",
+  "das": false,
+  "tasks2": [
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m1007",
+  "setting": "MIN",
+  "year": 2024,
+  "title": "Research on the classification of complex noise-mixed microseismic events based on machine vision",
+  "doi": "10.1190/geo2023-0395.1",
+  "venue": "Geophysics",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m1029",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "Identifying different classes of geoacoustic events using machine learning",
+  "doi": "10.1016/j.ijrmms.2025.106144",
+  "venue": "International Journal of Rock Mechanics and Mining Sciences",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m1046",
+  "setting": "MIN",
+  "year": 2024,
+  "title": "Research on microseismic source location based on time quality constraints",
+  "doi": "10.3389/feart.2024.1482158",
+  "venue": "Frontiers in Earth Science",
+  "das": false,
+  "tasks2": [
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m1054",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Automated microseismic classification in deep coal seams: Application to stress redistribution and fault reactivation in the Dongtan coal mine",
+  "doi": "10.1016/j.jappgeo.2026.106093",
+  "venue": "Journal of Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m1081",
+  "setting": "HF",
+  "year": 2025,
+  "title": "Identification of Weak Microseismic Signals in Hydraulic Fracturing Using 3D-Unet With ASPP Feature Fusion",
+  "doi": "10.1109/tgrs.2025.3529955",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m1113",
+  "setting": "MIN",
+  "year": 2020,
+  "title": "Research on automatic picking of microseismic first arrival",
+  "doi": "10.13272/j.issn.1671-251x.17564",
+  "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m1121",
+  "setting": "GT",
+  "year": 2025,
+  "title": "HEIMDALL: a grapH-based sEIsMic Detector And Locator for microseismicity",
+  "doi": "10.48550/arxiv.2507.10850",
+  "venue": "arXiv (Cornell University)",
+  "das": false,
+  "tasks2": [
+   "CD",
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m1125",
+  "setting": "GEN",
+  "year": 2021,
+  "title": "An Adaptive FCM-based Approach of First Arrival Time Picking for Microseismic Data",
+  "doi": "10.1109/igarss47720.2021.9553757",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m1129",
+  "setting": "GT",
+  "year": 2021,
+  "title": "Towards Synthetically Trained Convolutional Neural Networks for Induced Earthquake Detection and Localization",
+  "doi": "10.3997/2214-4609.202131053",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m1135",
+  "setting": "GEN",
+  "year": 2026,
+  "title": "Microseismic Event Identification and Localization in Vertical Wells Using Distributed Acoustic Sensing",
+  "doi": "10.3390/app16052234",
+  "venue": "Applied Sciences",
+  "das": true,
+  "tasks2": [
+   "CD",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m1136",
+  "setting": "HF",
+  "year": 2025,
+  "title": "Microseismic event picking and classification for hot dry rock hydraulic fracturing monitoring using SeisFormer",
+  "doi": "10.36922/jse025290036",
+  "venue": "Journal of seismic exploration",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m1137",
+  "setting": "TUN",
+  "year": 2026,
+  "title": "Analysis of microseismicity localization uncertainty in deep tunnels",
+  "doi": "10.1016/j.jrmge.2026.02.027",
+  "venue": "Journal of Rock Mechanics and Geotechnical Engineering",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m1138",
+  "setting": "GT",
+  "year": 2026,
+  "title": "Explainable AI for microseismic event detection",
+  "doi": "10.1016/j.aiig.2026.100246",
+  "venue": "Artificial Intelligence in Geosciences",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m1142",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Enhancing microseismic P-wave arrival detection: An FCM-AIC approach with an application to underground mines",
+  "doi": "10.1016/j.jappgeo.2026.106319",
+  "venue": "Journal of Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m1154",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "A Microseismic Location Method Based on BP-GA-GN Hybrid Algorithm",
+  "doi": "10.3390/app152312569",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m1160",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "MS-Mamba: A Lightweight State-Space Model for Microseismic Signal Identification",
+  "doi": "10.3390/electronics15163642",
+  "venue": "Electronics",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m1164",
+  "setting": "HF",
+  "year": 2016,
+  "title": "An efficient repeating signal detector to detect and characterize induced seismicity",
+  "doi": "10.1190/segam2016-13845755.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m1182",
+  "setting": "TUN",
+  "year": 2026,
+  "title": "Research on automatic segmentation method of microseismic monitoring signal under low signal-to-noise ratio conditions",
+  "doi": "10.1371/journal.pone.0358562",
+  "venue": "PLoS ONE",
+  "das": false,
+  "tasks2": [
+   "CW"
+  ]
+ },
+ {
+  "id": "m1194",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Intelligent P-Wave First-Arrival Picking and Focal Mechanism Inversion for Mining-Induced Dynamic Hazard Assessment in Deep Coal Mines",
+  "doi": "10.21203/rs.3.rs-9698533/v1",
+  "venue": "Research Square",
+  "das": false,
+  "tasks2": [
+   "PICK"
+  ]
+ },
+ {
+  "id": "m1197",
+  "setting": "MIN",
+  "year": 2021,
+  "title": "A neural network approach for classifying events and blasts in real-time mining seismicity",
+  "doi": "10.3997/1365-2397.fb2021028",
+  "venue": "First Break",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m1212",
+  "setting": "GT",
+  "year": 2025,
+  "title": "Deep learning method in micro-earthquake phase determination in geothermal field",
+  "doi": "10.1088/1755-1315/1486/1/012019",
+  "venue": "IOP Conference Series Earth and Environmental Science",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m1214",
+  "setting": "OG",
+  "year": 2021,
+  "title": "Deep Learning Versus One Neuron for the Problem of Micro-Earthquake Detection",
+  "doi": "10.1002/essoar.10509875.1",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m1215",
+  "setting": "GT",
+  "year": 2025,
+  "title": "The use of PhaseNet for Event Identification of Microearthquake Monitoring in Geothermal Field",
+  "doi": "10.31315/jpgt.v6i1.13437",
+  "venue": "Journal of Petroleum and Geothermal Technology",
+  "das": false,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m1218",
+  "setting": "MIN",
+  "year": 2026,
+  "title": "Tri-training-based automatic labeling model for mine seismic signals in label-scarce scenarios",
+  "doi": "10.1007/s11770-026-1544-5",
+  "venue": "Applied Geophysics",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m1263",
+  "setting": "GEN",
+  "year": 2020,
+  "title": "SC-PSNET: A deep neural network for automatic P- and S-phase detection and arrival-time picker using 1C recordings",
+  "doi": "10.1190/geo2019-0597.1",
+  "venue": "Geophysics",
+  "das": true,
+  "tasks2": [
+   "CW",
+   "PICK"
+  ]
+ },
+ {
+  "id": "m1275",
+  "setting": "HF",
+  "year": 2023,
+  "title": "Automation of Distributed Acoustic Sensing Passive Seismic Processing",
+  "doi": "10.3997/2214-4609.202310393",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m1278",
+  "setting": "GT",
+  "year": 2023,
+  "title": "Monitoring seismicity triggered by geothermal site shutdown with a surface DAS array at Brady Hot Springs",
+  "doi": "10.1093/gji/ggad333",
+  "venue": "Geophysical Journal International",
+  "das": true,
+  "tasks2": [
+   "CD"
+  ]
+ },
+ {
+  "id": "m1301",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "Transfer learning using DAS for blasting event identification",
+  "doi": "10.1117/12.3051072",
+  "venue": "",
+  "das": true,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m1331",
+  "setting": "SLP",
+  "year": 2026,
+  "title": "Rockfall Monitoring for Highways Based on Distributed Fiber Optics and Model Merging",
+  "doi": "10.58286/33948",
+  "venue": "e-Journal of Nondestructive Testing",
+  "das": true,
+  "tasks2": [
+   "ET",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m1397",
+  "setting": "MIN",
+  "year": 2020,
+  "title": "Discriminant analysis of mine quake type and intensity based on a deep neural network",
+  "doi": "10.1080/0951192x.2020.1718770",
+  "venue": "International Journal of Computer Integrated Manufacturing",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m1406",
+  "setting": "MIN",
+  "year": 2025,
+  "title": "Research on Intelligent Early Warning System and Cloud Platform for Rockburst Monitoring",
+  "doi": "10.3390/app152011098",
+  "venue": "Applied Sciences",
+  "das": false,
+  "tasks2": [
+   "CW",
+   "PICK",
+   "LOC"
+  ]
+ },
+ {
+  "id": "m1427",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Real-Time Seismic Wave Velocity Prediction for Accurate Source Location in Underground Mines Based on Machine Learning",
+  "doi": "10.56952/arma-2023-0482",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ]
+ },
+ {
+  "id": "m1431",
+  "setting": "MIN",
+  "year": 2024,
+  "title": "Machine Learning (ML) Model for Blasting and Seismic Event Classification on Chilean Copper Mines",
+  "doi": "10.56952/arma-2024-0976",
+  "venue": "",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m1433",
+  "setting": "MIN",
+  "year": 2023,
+  "title": "Automation of seismic events classification during seismic monitoring at a coal mine using machine learning",
+  "doi": "10.30686/1609-9192-2023-5s-58-64",
+  "venue": "Mining Industry Journal (Gornay Promishlennost)",
+  "das": false,
+  "tasks2": [
+   "ET"
+  ]
+ },
+ {
+  "id": "m262",
+  "setting": "GEN",
+  "year": 2022,
+  "title": "Deep compressed seismic learning for fast location and moment tensor inferences with natural and induced seismicity",
+  "doi": "10.1038/s41598-022-19421-z",
+  "venue": "Scientific Reports",
+  "das": false,
+  "tasks2": [
+   "LOC"
+  ],
+  "note": "removed from the evidence map after full-text reading (laboratory data only)"
+ }
+]

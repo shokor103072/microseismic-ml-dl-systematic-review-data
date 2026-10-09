@@ -1,0 +1,20 @@
+Screening, full decision codes: {"n":456,"agreement":54.6,"kappa":0.442,"kappa_ci95":[0.39,0.492]}
+Screening, include vs exclude: {"n":456,"agreement":90.4,"kappa":0.69,"kappa_ci95":[0.603,0.774]}
+Evidence map, sensing: {"n":70,"agreement":98.6,"kappa":0.945,"kappa_ci95":[0.802,1]}
+Evidence map, setting: {"n":70,"agreement":87.1,"kappa":0.838,"kappa_ci95":[0.729,0.928]}
+Evidence map, tasks: {"n":70,"agreement":80,"kappa":0.763,"kappa_ci95":[0.655,0.876]}
+Evidence map, model_families: {"n":70,"agreement":65.7,"kappa":0.604,"kappa_ci95":[0.477,0.725]}
+Evidence map, learning_regimes: {"n":70,"agreement":82.9,"kappa":0.671,"kappa_ci95":[0.48,0.815]}
+Evidence map, cross_site_test: {"n":70,"agreement":87.1,"kappa":0.562,"kappa_ci95":[0.267,0.8]}
+Evidence map, realtime_claim: {"n":70,"agreement":78.6,"kappa":0.4,"kappa_ci95":[0.154,0.627]}
+Evidence matrix, I1: null
+Evidence matrix, I2: null
+Evidence matrix, R1: null
+Evidence matrix, R2: null
+Evidence matrix, E1: null
+Evidence matrix, E2: null
+Evidence matrix, O1: null
+Evidence matrix, O2: null
+Evidence matrix, O3: null
+Evidence matrix, O4: null
+All coded items pooled: 490 item decisions, agreement 82.9% (report per-item kappa above; pooled kappa is not meaningful across different code sets)

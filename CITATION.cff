@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the paper and this repository."
+title: "Data and code for: Will a machine-learning microseismic detector work at the next site? Evaluation and transfer evidence for geophone and DAS monitoring"
+type: dataset
+version: "2.0.0"
+date-released: "2026-10-10"
+license: CC-BY-4.0
+repository-code: "https://github.com/shokor103072/microseismic-ml-dl-systematic-review-data"
+authors:
+  - family-names: Rahaman
+    given-names: Md Shokor A.
+    affiliation: "Universiti Teknologi PETRONAS"
+  - family-names: Jaafar
+    given-names: Jafreezal
+    affiliation: "Universiti Teknologi PETRONAS"
+  - family-names: Shahabudin
+    given-names: Mohd Safuwan
+    affiliation: "Universiti Teknologi PETRONAS"
+  - family-names: Khan
+    given-names: Reeyan Afzal
+    affiliation: "Universiti Teknologi PETRONAS"
+  - family-names: Paputungan
+    given-names: Irving Vitra
+    affiliation: "Universitas Islam Indonesia"
+keywords:
+  - microseismic monitoring
+  - distributed acoustic sensing
+  - machine learning
+  - induced seismicity
+  - systematic review
+  - evidence map

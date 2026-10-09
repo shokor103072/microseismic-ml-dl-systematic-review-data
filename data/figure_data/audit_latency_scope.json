@@ -1,0 +1,9 @@
+{
+ "_note": "What the timing reported by each audited study measures, coded from the master-table fields 'Latency / Detection Delay Results' and 'Hardware & Compute Cost' (27 Sep 2026). hw: hardware of the timed run stated (Y) or not / only partly (N). Studies not listed report no timing.",
+ "training_only": { "P29": "Y", "P74": "Y" },
+ "relative_or_qualitative": { "P39": "Y", "P47": "N", "P55": "Y", "P69": "Y", "P71": "Y" },
+ "per_window_or_sample": { "P6": "Y", "P26": "Y", "P44": "N", "P65": "Y", "P68": "N", "P75": "Y" },
+ "per_event": { "P5": "Y", "P32": "N", "P38": "Y", "P42": "Y", "P77": "Y", "P82": "Y" },
+ "throughput_over_data": { "P7": "Y", "P15": "Y", "P33": "N", "P63": "Y", "P81": "N" },
+ "end_to_end_alert": { "P9": "N" }
+}
